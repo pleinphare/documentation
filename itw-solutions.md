@@ -1,13 +1,12 @@
 > https://public.etherpad-mozilla.org/p/pleinphare-itw-solutions
 
-![Canvas](https://raw.githubusercontent.com/pleinphare/documentation/master/plein-phare.jpg)
-
-
 # Contexte 
-- Valider les solutions qu'on a posé au canevas auprès des jeunes et vérifier que ces mêmes jeunes seraient effectivement intéressés par ce type d'ateliers.
+- Valider les solutions, l'UVP, la métaphore et déterminer le prix d'un stage.
 
 # Infos pratiques
-- Interview les 3 types d"'utilisateurs types" 
+- Interview les 3 d'utilisateurs :
+  - Lycéens de Saint-Vincent et Jules Guesde en filière générale qui doute sur le post-bac
+  - Jeunes de Saint-Clément
 - Durée totale 24min
 - En face à face
 - On prends pas de note durant l'interview
