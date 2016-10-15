@@ -1,5 +1,8 @@
 > https://public.etherpad-mozilla.org/p/pleinphare-itw-solutions
 
+![Canvas](https://raw.githubusercontent.com/pleinphare/documentation/master/plein-phare.jpg)
+
+
 # Contexte 
 - Valider les solutions qu'on a posé au canevas auprès des jeunes et vérifier que ces mêmes jeunes seraient effectivement intéressés par ce type d'ateliers.
 
