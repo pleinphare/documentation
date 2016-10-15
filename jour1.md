@@ -18,17 +18,13 @@ Puis, travailler avec des personnes ayant les mêmes buts que toi, et  qui sont 
 Nous avons marché un peu, discutant de l'atelier, du projet, du fait qu'il fallait un nom.
 Nous avons introduit quelques règles : 
 
-    Si à une proposition personne ne s'oppose, on considère que tout le monde acquiesce.
-
-    La loi dite " des deux pieds" ou de mobilité personelle elle dit : "Si à n’importe quel moment, vous vous trouvez dans une situation où vous n’apprenez rien, n’apportez ni ne contribuez rien, servez-vous de vos deux pieds et rendez-vous à un endroit qui vous plaira davantage et où vous serez plus productif."
-
-    concrètement : si tu n'as rien à apprendre des autres et que tu n'as rien à apprendre aux autres tu peux t'en aller. 
-
-    Cette loi sera d'ailleurs aussi appliqué durant le stage.
+- Si à une proposition personne ne s'oppose, on considère que tout le monde acquiesce.
+- La loi dite " des deux pieds" ou de mobilité personelle elle dit : "Si à n’importe quel moment, vous vous trouvez dans une situation où vous n’apprenez rien, n’apportez ni ne contribuez rien, servez-vous de vos deux pieds et rendez-vous à un endroit qui vous plaira davantage et où vous serez plus productif." concrètement : si tu n'as rien à apprendre des autres et que tu n'as rien à apprendre aux autres tu peux t'en aller.  
+Cette loi sera d'ailleurs aussi appliqué durant le stage.
 
 Ces règles nous permettront plus tard d'être plus efficace et de foncer.
 
-2ème Atelier :
+# 2ème Atelier
 
 Après une courte balade on se retrouve à côté du quartier d'Antigone, dans une genre de brocante qui fais restaurant et superette #cityzen market#, il fais super beau , on s'installe en terrasse.
 Steph propose un nouvel atelier : remember the future (rappel toi du futur) pour les moins anglophones.
