@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/pleinphare/documentation/master/media/logo-pleinphare.jpg)
+
 # Documentation
 
 ## Liens :
