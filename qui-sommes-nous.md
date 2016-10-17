@@ -20,4 +20,4 @@ Applicateur de nouvelles façons de monter des projets collectivement
 **Julia**  
 26 ans  
 Vidéaste pour ceux qui essaient d'accélérer le changement de société  
-*"Plein phare c'est comme un laboratoire de recherche pour la création d'adultes créateurs ou les jeunes sont à la fois cobayes et les chercheurs !"*
+*"Plein phare c'est comme un laboratoire de recherche pour la création d'adultes créateurs ou les jeunes sont à la fois les cobayes et les chercheurs !"*
