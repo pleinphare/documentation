@@ -1,6 +1,16 @@
-#Le lieu d'accueil...
+#Le lieu d'accueil...  
 
-Un gîte à 1600 mètre d'altitude au milieu des chevaux. 24 places réparties entre un dortoir et 4 chambres.
+Un gîte à 1600 mètre d'altitude au milieu des chevaux.   
+24 places réparties entre un dortoir et 4 chambres.  
+
+**Et c'est où ?**  
+Dans les Pyrénées Orientales (proche de l'Espagne) à 3h de Montpellier et de Toulouse  
+![Carte](https://github.com/pleinphare/documentation/blob/master/media/Capture%20d%E2%80%99e%CC%81cran%202016-10-17%20a%CC%80%2012.12.20.png)  
+
+**Y accéder**  
+Route de la forêt  
+66210 Les Angles  
+
 ![Gîte](https://github.com/pleinphare/documentation/blob/master/media/11380492393_e2c997fefe_o.jpg)
 ![couloir](https://github.com/pleinphare/documentation/blob/master/media/11824654643_a28a489409_o.jpg)
 ![chambre](https://github.com/pleinphare/documentation/blob/master/media/11370408026_02652bc92b_o.jp)
