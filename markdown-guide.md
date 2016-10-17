@@ -8,10 +8,12 @@ Le Lorem Ipsum est simplement du faux texte employé dans la composition et la m
 Du **Gras**
 De l'italique *italique*
 
-Des liens ex. [google](http://www.google.fr)
+Des liens ex. [google](http://www.google.fr)  
 Une image ![Labrit](http://static.wamiz.fr/images/animaux/chiens/medium/berger-des-pyrenees-809.jpg)
 
 Listes :  
 - Tomates
 - Poires
 - Vent
+
+Sauter une ligne : ajouter deux espaces en fin de ligne
