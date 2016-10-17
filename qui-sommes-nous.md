@@ -18,7 +18,7 @@ Applicateur de nouvelles façons de monter des projets collectivement
 *citation*
 
 **Julia**  
-![Photo Ju](https://github.com/pleinphare/documentation/blob/master/media/Profil%20Ju2.png)  
+![Photo Ju](https://github.com/pleinphare/documentation/blob/master/media/Profil%20Ju%20.png)
 26 ans  
 Vidéaste pour ceux qui essaient d'accélérer le changement de société  
 *"Plein phare c'est comme un laboratoire de recherche pour la création d'adultes créateurs ou les jeunes sont à la fois les cobayes et les chercheurs !"*
