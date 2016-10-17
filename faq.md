@@ -12,7 +12,7 @@ Toutes deux nous constatons que nous aimerions en savoir plus sur nous même afi
 - **Concrètement à quoi ça consiste ?**  
 Dans l'idéal nous emmènerions une dizaine de lycéens dans un gîte le temps d'un week end. Avec eux, on formerait le programme du week end. C'est à dire donner un temps à chaque atelier, qui permettront nous l'espérons de les guider vers quelque chose qui leur ressemble.  
 
-- **Et ces ateliers en quoi consistent-ils ?  
+- **Et ces ateliers en quoi consistent-ils ?**  
 Autant en art : photo , peinture (recherche d'identité), cuisine , documentaire , danse  
 Qu'en découverte de soi : -méditation, self défense  
 -et certains de nos ateliers sont des outils développé dans les sociétés afin de monter des projets sous les principes lean (à la recherche d'optimisation de valeurs), le produit/projet étant désormais le jeune ou ses futures activités.  
