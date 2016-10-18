@@ -7,8 +7,8 @@ J’ai une idée très superficielle du projet, et je ne sais pas du tout ce que
 
 Je les retrouve attablés autour d’un café, un tableau véléda devant eux, des post-its en main. Steph a donc déjà du commencer l’atelier.
 Sur le tableau : un dessin. Celui d’un voilier voguant vers une île. Plusieurs ancres accrochées à la coque sont dessinées dessous. A gauche, le vent est représenté soufflant sur les voiles du bateau guidé par un phare dessiné à droite. Sous le phare est représentée une île.
-On m’explique rapidement : « On en est au début. Le phare qui correspond à nos objectifs et ce qu’on aimerait que soit ce projet.
-Tu n'as qu'à marquer tes idées sur le post-its et les coller sur le phare. » 
+On m’explique rapidement : « *On en est au début. Le phare qui correspond à nos objectifs et ce qu’on aimerait que soit ce projet.
+Tu n'as qu'à marquer tes idées sur le post-its et les coller sur le phare.* » 
 C’est effectivement très simple et peu à peu on passe dans l’ordre, aux ancres (signifiant les problèmes et freins qu’on pourrait rencontrer), au vent (ce qui nous fait avancer, les points positifs) et enfin à l’île (les idées qu’on ne sait où placer (exemple : les points qui sont à la fois positifs et négatifs, comme la mixité)). 
 La photo du dessin et l’atelier retapé sont consultables ici.
 
