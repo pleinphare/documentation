@@ -1,6 +1,6 @@
 ---
 title: FAQ - Le projet Plein Phare
-descritpion: Comprendre qu'est-ce que c'est en 7 questions.
+description: Comprendre qu'est-ce que c'est en 7 questions.
 ---
 
 # FAQ
