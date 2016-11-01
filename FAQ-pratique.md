@@ -1,4 +1,7 @@
-#FAQ - l'organisation technique  
+---
+title: FAQ - L'organisation pratique
+description : on vous explique comment on va s'organiser !
+---  
 
 **On va vivre où ?**   
 Dans un **gîte** à 1600 mètres d'altitude au milieu des chevaux.   
