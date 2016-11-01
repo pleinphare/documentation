@@ -1,3 +1,8 @@
+---
+title: Méthodologie du projet - Les interviews problème
+description : Nous avons construit ce projet pour qu'il apporte une solution à certains problèmes de jeunes qui ne savent pas choisir comme orientation post-bac. Pour ça, nous avons supposé qu'ils rencontraient certaines problématiques. Pour être sûrs que notre projet apporte de vraies solutions à des vrais problèmes et qu'il est un impact plus fort, on a réalisé une série d'interviews selon la méthodologie suivante.
+---
+
 > https://public.etherpad-mozilla.org/p/pleinphare-itw
 
 # Contexte 
