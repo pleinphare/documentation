@@ -1,3 +1,8 @@
+---
+title: FAQ - Présentation du projet et des porteurs
+description: Ca c'est qui on est, ce qu'on fait et pourquoi on le fait.
+---
+
 #Qui sommes-nous ?
 
 On a entre 17 et 43 ans. Ce qui nous relie : l'envie de "faire quelque chose" pour améliorer la société !
