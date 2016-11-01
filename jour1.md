@@ -1,3 +1,8 @@
+---
+title: Compte rendu du temps de travail n°1
+description: Voici le résumé de notre première journée de travail en équipe et un aperçu de notre méthologie de projet
+---
+
 # 1er Atelier 
 
 
