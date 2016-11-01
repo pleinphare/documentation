@@ -1,3 +1,8 @@
+---
+title: Compte rendu du temps de travail n°2
+description: Voici le résumé de notre deuxième journée de travail en équipe et un aperçu de notre méthologie de projet 
+---
+
 Aujourd’hui, 22 Juillet 2016;  Julia nous récupère au tram Sonia et moi. Nous allons à Carnon, au Gédéon le restaurant/hôtel à 30 mètres de la plage qui appartient aux parents de Sonia.
 On mange sur place, puis on s’installe dans les canapés à l’intérieur et on commence un peu de concret :
 Quelles sont les tâches à faire ? Comment les prioriser ? 
