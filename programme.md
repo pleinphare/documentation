@@ -1,6 +1,6 @@
 ---
-title: le progamme du week-end
-description: présentation détaillée du contenu du week-end et du planning
+title: Le progamme du week-end
+description: Présentation détaillée du contenu du week-end et du planning
 ---
 
 # VENDREDI   
