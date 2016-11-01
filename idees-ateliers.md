@@ -1,3 +1,8 @@
+---
+title: Inspiration
+description : quelques phrases et idées inspirantes qui représentent bien l'esprit de ce qu'on souhaite transmettre
+---
+
 - 70% des métiers de demain sont à inventer
 - Avant de choisir un travail, choisi le type de vie que tu veux
 - On peut créer sa propre culture
@@ -12,3 +17,5 @@
 - solliciter la prise de conscience que c'est un peu le bordel pour susciter l'engagement (vidéos ludiques sur les scandales alimentaires, les magouilles des gouvernement, la liberté de la presse...)
 - Proposer nouvelle définition du travail
 - Présenter la définition d'activité au sens global
+- Avant de savoir marcher on tombe en moyenne 2000 fois
+- Tu vas faire entre 8 et 12 métiers dans ta vie
