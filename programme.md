@@ -1,3 +1,8 @@
+---
+title: le progamme du week-end
+description: présentation détaillée du contenu du week-end et du planning
+---
+
 # VENDREDI   
 **17h - Arrivée**
 - découverte des lieux
