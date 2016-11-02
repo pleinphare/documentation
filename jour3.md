@@ -1,5 +1,5 @@
 ---
-title: comte rendu du temps de travail numero 3
+title: compte rendu du temps de travail numero 3
 description: journal de bord de notre troisième jour de travail ensemble
 ---
 
