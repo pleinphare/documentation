@@ -1,3 +1,8 @@
+---
+title: comte rendu du temps de travail numero 3
+description: journal de bord de notre troisième jour de travail ensemble
+---
+
 # jour 3
 
 Aujourd’hui je me suis réveiller a 7 pour pouvoir rejoindre Julia dans le centre de Montpellier. Elle me récupère en voiture pour directement allez au camping ou Stéphane et Luna on dormis et nous entendent pour commencer la journée. Pour une fois j'arrive en avance a mon point de rendez vous, j'ai le temps de me prendre un rapide caffee histoire pour émerger de mon dur réveil et Julia arrive !  Le trajet nous prend a peu près 30 minutes mais la route est très agréable et ça nous permet de faire plus connaissance avec Julia. On est toute les deux fatiguer mais on a hâte d attaquer cette deuxième journée pour voir ou va se mener notre projet.
