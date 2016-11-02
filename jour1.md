@@ -52,11 +52,7 @@ On colle des posts-its, en commençant par décembre : "*qu'est ce qu'on aimerai
 Ici, il y a une retranscription des idées avec le plus de petits points sur chaque mois 
 
 
-
-
-
-
-ANNEXE
+# ANNEXE
 
     Le phare (objectifs, ce qu’on aimerait ) :
 
