@@ -6,10 +6,10 @@ description: Comprendre qu'est-ce que c'est en 7 questions
 # FAQ
 
 - **Qui sommes nous ?**  
-Sonia et moi sommes des lycéennes de terminale  et nous sommes accompagnés de Julia : porteuse de projet et Stéphane accompagnateur de projet.  
+Sonia et moi sommes des lycéennes de terminale et nous sommes accompagnées de Julia : porteuse de projets et Stéphane accompagnateur de projets.  
 
-- **A quel problème sommes nous confronté ?**  
-Sonia et moi approchons toutes deux de la fin du lycée et il nous faudra à la fin de l'année choisir notre orientation, hors nous n'avons aucune idée de quoi faire plus tard, comme beaucoup de personnes de notre entourage. En effet, les personnes et organisations sensé être ressource ne nous ont pas beaucoup aidé. Nous trouvons que beaucoup d'idées fausses sur l'emploi sont enseignées aux jeunes et souhaitons remédier à cela, tout en les aidant à trouver l'activité qui aurait du sens pour eux.
+- **À quel problème sommes-nous confrontées ?**  
+Sonia et moi approchons toutes deux de la fin du lycée et il nous faudra à la fin de l'année choisir notre orientation, hors nous n'avons aucune idée de quoi faire plus tard, comme beaucoup de personnes de notre entourage. En effet, les personnes et organisations sensées être ressource ne nous ont pas beaucoup aidées. Nous trouvons que beaucoup d'idées fausses sur l'emploi sont enseignées aux jeunes et souhaitons remédier à cela, tout en les aidant à trouver l'activité qui aurait du sens pour eux.
 
 - **Par quel moyen comptons nous le résoudre ?**  
 Toutes deux nous constatons que nous aimerions en savoir plus sur nous même afin de s'engager dans une activité, cette idée au cours de la réalisation du projet à pris tout son sens puisque c'est justement à travers le développement de soi et la découverte du champs des possibles que nous avons orienté notre approche. C'est donc naturellement que nous est venu l'outil des ateliers afin de réaliser le projet.  
