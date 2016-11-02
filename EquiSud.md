@@ -17,6 +17,6 @@ Dans les Pyrénées Orientales (proche de l'Espagne) à 3h de Montpellier et de 
 Tadam !  
 ![Gîte](https://github.com/pleinphare/documentation/blob/master/media/gite/gite.jpg)
 ![couloir](https://github.com/pleinphare/documentation/blob/master/media/gite/couloir.jpg)
-![chambre](https://github.com/pleinphare/documentation/blob/master/media/gite/chambre.jp)
+![chambre](https://github.com/pleinphare/documentation/blob/master/media/gite/chambre.jpg)
 ![chambre 2](https://github.com/pleinphare/documentation/blob/master/media/gite/chambre1.jpg)
 ![chevaux](https://github.com/pleinphare/documentation/blob/master/media/gite/chevaux.jpg)
