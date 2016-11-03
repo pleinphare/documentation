@@ -1,6 +1,6 @@
 ---
 title: FAQ - L'organisation pratique
-description : on vous explique comment on va s'organiser !
+description: on vous explique comment on va s'organiser !
 ---  
 
 **On va vivre où ?**   
