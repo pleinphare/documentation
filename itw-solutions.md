@@ -8,21 +8,24 @@ description: Les interviews problèmes nous on permis de valider les problèmes 
 # Contexte 
 - Valider les solutions, l'UVP, la métaphore et déterminer le prix d'un stage.
 
-# Infos pratiques
-- Interview les 3 d'utilisateurs :
-  - Lycéens de Saint-Vincent et Jules Guesde en filière générale qui doute sur le post-bac
-  - Jeunes de Saint-Clément
+# Infos pratiques pour l'interviews
+- Interview les 2 types d'utilisateurs qui sont :
+  - les lycéens de Saint-Vincent et Jules Guesde en filière générale qui doute sur le post-bac
 - Durée totale 24min
 - En face à face
 - On prends pas de note durant l'interview
 - Respecter le timing
 
 # Présentation (2min)
-Topo qui présente l'initiative (Ce qu'on va faire et pourquoi on fait cette interview)
-- accroche par la question "est-ce que tu sais ce que tu vas faire plus tard"
-- PROPOSITION UNIQUE DE VALEUR - mieux cerner qui je suis pour engager une activité qui a du sens pour moi au travers d'ateliers
-- portée en co-réalisation entre 2 jeune de 17ans qui sont un peu perdue quand à leur orientation 
+Topo qui présente l'initiative (ce qu'on va faire et pourquoi on fait cette interview)
+- Inventer un projet pour aider les jeunes qui ont des problèmes dans leur orientation scolaire
+- notre idée c'est une sorte de colo pour te permettre de mieux cerner qui tu es pour engager une activité qui a du sens pour toi au travers d'ateliers
+- portée en co-réalisation entre 2 jeune de 17 ans qui sont un peu perdue quand à leur orientation 
 - forme que prend le projet (lieu à part + ateliers)
+- on déjà fait des interviews sur les problèmes (pour être sûrs que les problèmes auxquels on pensait étaient de vrais problème)
+- à partir de ces problèmes on a inventé des solutions
+- je viens te voir pour savoir si ces solutions sont bien des solutions pour toi qui serait susceptible de participer à notre atelier
+- accroche par la question "est-ce que tu sais ce que tu vas faire plus tard"
 
 # Vérifier qu'on est sur les bonnes personnes (2min)
 NB : réponse courtes type : oui / non / 50 / vétérinaire
