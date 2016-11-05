@@ -1,8 +1,6 @@
 ---
 title: Méthodologie - Les interviews solutions
-description: Les interviews problèmes nous on permis de valider les problèmes que les jeunes rencontrés réellement (cf - Méthodologie - Les interviews problèmes) à partir de ça, nous avons fabriqué des solutions constituant le contenu de notre projet. 
-Les interviews solutions nous permettent de valider qu'on est pas à côté de la plaque, que les solutions qu'on propose répoondent bien à des problèmes, vérifier la proposition unique de valeur, la métaphore et le prix.
-
+description: Les interviews problèmes nous on permis de valider les problèmes que les jeunes rencontrés réellement (cf - Méthodologie - Les interviews problèmes) à partir de ça, nous avons fabriqué des solutions constituant le contenu de notre projet.Les interviews solutions nous permettent de valider qu'on est pas à côté de la plaque, que les solutions qu'on propose répoondent bien à des problèmes, vérifier la proposition unique de valeur, la métaphore et le prix.
 ---
 
 > https://public.etherpad-mozilla.org/p/pleinphare-itw-solutions
