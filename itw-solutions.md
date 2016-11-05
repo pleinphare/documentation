@@ -34,26 +34,33 @@ NB : réponse courtes type : oui / non / 50 / vétérinaire
 - Il a peur de perdre du temps : Tu as plus peur de ne pas y arriver ou de te tromper et de "perdre du temps". 
 - Ils ne savent pas comment réaliser leurs projets : Est ce que tu sais quoi faire après le bac afin de réaliser ton projet ? Tu sais exactement, tu as quelques idées, ou bien c'est encore flou pour toi ?
 
-# Présentation du contexte des problèmes (2min)
-- On part du constat que l'école n'est pas adaptée au monde nouveau pour les aider à choisir leur voie
-- La question "qu'est-ce que tu veux faire de ton avenir est angoissante
-- La société et la famille leur met la pression
 
-# Le classement des problèmes (3min)
-NB : piocher au pif l'ordre des problème (jamais le même ordre de présentation des problème)  + ne pas la laisser développer ici
-Voici 3 problèmes qu'on a identifié et que tu as, dis-moi si tu les as et classe les par pénibilité ?
-- Tu ne sais pas choisir le postbac et les inscriptions approchent
-- Tu n'as pas de personnes ressources pour les aider
-- Tu n'as pas confiance en tes capacité (tu ne penses pas que tu puisses exercer / inventer ta propre activité.) 
+# Histoire des problèmes (2min) - Pour vérifier (again) le bon alignement avec les personnes interviewées. Si pas aligné on switch. 
+"Tout à l'heure je t'ai parlé qu'on avait isolé. Maintenant je vais te les illustrer avec une petite histoire"
 
- # Coeur de l'interview (15min)
-NB : On ne pose aucune question + si jamais le mec en face ne réponds pas, relancer en disant par exemple "tu m'as dit ça tout à l'heure, est-ce que tu peux m'en dire un peu plus ?"
-Est-ce que tu pourrais me parler de toi vis-à-vis de ce type de problèmes là ?
+Ex 1 / La médecine ça me botte bien... mais je suis angoissée parceque si je le choisi et que ça me plaît pas je risque de perdre 7 ans de ma vie. J'aurai besoin d'aide et j'arrive pas trouver les bonnes personnes pour m'aider. Mes parents y en savent rien et la conseillère d'orientation m'envoie vers des trucs qui ont rien à voir. Là les inscriptions post-bac approchent et je ne sais pas quoi choisir, ça m'angoisse à fond !
 
-# Clotûrer (2min)
-On a fini, il reste 2min, est-ce que tu veux rajouter quelque chose ? 
-Est-ce qu'il y aurait des personnes susceptibles d'être intéressée et à qui je pourrait faire cette interview ?
-Est-ce que je peux revenir te voir pour faire les interviews solutions ?
+Ex 2 / On est en décembre et la prof d'orientation nous met la pression pour aller compléter le post-bac, sauf que j'ai aucune idée de ce que je vais faire. Y'a rien qui me plaît dans les propositions, mes parents et la conseillère d'orientation m'aident pas il comprennent rien. J'ai pas envie de me lancer dans un truc qui me plaît pas et étudier pour rien ou rien faire pendant une année. 
 
-# Retranscription (3min)
-Seul, on retranscrit ce qu'on a retenu de l'interview + coordonnées, nom, top des problèmes, date + truc intéressant (ex : le nom d'un bouquin)
+
+ # Coeur de l'interview (15min) ici on utilise le site pour montrer en même temps l'interview.
+Pour chaque problème tu illustre comment on résoud le problème en utilisant le site internet. 
+Et là on demande : 
+Dans tout ce que je viens de te présenter qu'est-ce qui te parle le plus ? 
+Est-ce que maintenant que tu sais que ce truc existe, tu pourrais choisir ton orientation scolaire sans ça ?
+Est-ce que tu vois un truc super important que tu penses qu'on a oublié ? 
+
+# Va chercher le prix (3min)
+Pour tout ce que je viens de te présenter ça vaudra 250€
+Est-ce que tu serais prêt à payer ça ? (ATTENTION : ne jamais lui demander combien il serait prêt à payer)
+Si oui : on double le prix qu'on propose à la prochaine interview
+Si non : bien observer le langage non-verbal pour savoir si c'est un non radical ou hésitant
+Et ainsi de suite, on réajuste pour trouver le prix de friction. 
+
+# Clôturer (2min) 
+Remercier
+Proposer de rajouter quelque chose
+Demander si il y a autres personnes
+
+# Retranscription (2min)
+Seul, on retranscrit ce qu'on a retenu de l'interview + coordonnées, nom, réponses au 3 questions, date + truc intéressant (ex : le nom d'un bouquin).
