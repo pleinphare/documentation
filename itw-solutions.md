@@ -27,13 +27,13 @@ Topo qui présente l'initiative (ce qu'on va faire et pourquoi on fait cette int
 - je viens te voir pour savoir si ces solutions sont bien des solutions pour toi qui serait susceptible de participer à notre atelier
 - accroche par la question "est-ce que tu sais ce que tu vas faire plus tard"
 
-# Vérifier qu'on est sur les bonnes personnes (2min)
+# Vérifier qu'on est sur les bonnes personnes (2min) (ici si on sait déjà on zappe) 
 NB : réponse courtes type : oui / non / 50 / vétérinaire
-- C'est bien un lycéen en filière générale : Tu es au lycée ? Dans quel filière es-tu ? 
-- C'est bien un paumé : Où est-ce que tu vas aller après le bac ? Est-ce que la question de ce que tu vas faire plus tard t'angoisse ? Est-ce que tu as fait tes inscriptions post-bac ?
-- Ils n'ont pas confiance en leurs capacité :Si tu avais une baguette magique, quelle serait ton activité dans 10 ans ? Sur une échelle de 1 à 10 à combien te penses-tu  capable de réaliser ce rêve ? (Si pas beaucoup : est-ce que c'est parce que tu doutes de tes capacités ou de ta motivation ?)
+- C'est bien un paumé : Où est-ce que tu vas aller après le bac ? Est-ce que la question de ce que tu vas faire plus tard t'angoisse ? 
 - Il n'a pas été aidé par des personnes ressources : Qui est-ce qui t'aide pour faire des choix ?
-Ils ne savent pas comment réaliser leurs projets : Est ce que tu sais quoi faire après le bac afin de réaliser ton projet ? Tu sais exactement, tu as quelques idées, ou bien c'est encore flou pour toi ?
+- Il a peur de perdre du temps : Tu as plus peur de ne pas y arriver ou de te tromper et de "perdre du temps". 
+- Ils ne savent pas comment réaliser leurs projets : Est ce que tu sais quoi faire après le bac afin de réaliser ton projet ? Tu sais exactement, tu as quelques idées, ou bien c'est encore flou pour toi ?
+
 # Présentation du contexte des problèmes (2min)
 - On part du constat que l'école n'est pas adaptée au monde nouveau pour les aider à choisir leur voie
 - La question "qu'est-ce que tu veux faire de ton avenir est angoissante
