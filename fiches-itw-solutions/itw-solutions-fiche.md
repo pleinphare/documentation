@@ -8,6 +8,14 @@
 
 ### Data
 
+- Où est-ce que tu vas aller après le bac ?
+- Ce que tu vas faire plus tard t'angoisse ?
+- Qui t'aide pour faire des choix ?
+- Peur de perdre du temps ?
+- Pas y arriver ou "perdre du temps" ? 
+- Quoi faire après le bac ? [ ] exactement - [ ] à peu près - [ ] flou
+
+
 ### Solutions
 
 **Priorité :** 0/3 | **Pénibilité :** 0/3 
@@ -18,7 +26,19 @@
 
 ### Solutions
 
+**Priorité :** 0/3 | **Pénibilité :** 0/3 
+------------ | -------------
+**Commentaires :**
+> .  
+> .  
+
 ### Solutions
+
+**Priorité :** 0/3 | **Pénibilité :** 0/3 
+------------ | -------------
+**Commentaires :**
+> .  
+> .  
 
 ### Prix
 
