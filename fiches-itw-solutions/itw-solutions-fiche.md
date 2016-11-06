@@ -13,7 +13,7 @@
 - Qui t'aide pour faire des choix ?
 - Peur de perdre du temps ?
 - Pas y arriver ou "perdre du temps" ? 
-- Quoi faire après le bac ? [ ] exactement - [ ] à peu près - [ ] flou
+- Quoi faire après le bac ? - [ ] exactement - [ ] à peu près - [ ] flou
 
 
 ### Solutions
