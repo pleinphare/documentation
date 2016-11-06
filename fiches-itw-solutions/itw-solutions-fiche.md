@@ -8,13 +8,12 @@
 
 ### Data
 
-- Où est-ce que tu vas aller après le bac ?
-- Ce que tu vas faire plus tard t'angoisse ?
-- Qui t'aide pour faire des choix ?
-- Peur de perdre du temps ?
-- Pas y arriver ou "perdre du temps" ? 
+- Où est-ce que tu vas aller après le bac ? - 
+- Ce que tu vas faire plus tard t'angoisse ? [ ] Oui - [ ] Non
+- Qui t'aide pour faire des choix ? - 
+- Peur de perdre du temps ? [ ] perte de temps 
+- Pas y arriver ou "perdre du temps" ? [ ] Echec - [ ] perte de temps 
 - Quoi faire après le bac ? - [ ] exactement - [ ] à peu près - [ ] flou
-
 
 ### Solutions
 
