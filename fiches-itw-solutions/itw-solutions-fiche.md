@@ -10,6 +10,12 @@
 
 ### Solutions
 
+**Priorité :** 0/3 | **Pénibilité :** 0/3 
+------------ | -------------
+**Commentaires :**
+> .  
+> .  
+
 ### Solutions
 
 ### Solutions
