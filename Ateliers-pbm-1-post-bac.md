@@ -30,5 +30,15 @@ Qu'est-ce que ça m'apporte ? L'occasion de prendre le temps de réfléchir sur 
 
 **Théâtre impro**
 Kézako ? des jeunes + un pro + une scène + un thème = des mini-pièces de théâtre tout droit sorties de l'imaginaire collectif
-Qu'est-ce que ça m'apporte ? de réaliser qu'à partir de rien on peut créer quelque chose, de t'entraîner à te positionner face à un public et une autre personne, de découvrir une activité/
+Qu'est-ce que ça m'apporte ? de réaliser qu'à partir de rien on peut créer quelque chose, de t'entraîner à te positionner face à un public et une autre personne, de découvrir une activité.
+
+**Atelier d'art permanent**
+Kézaco ? Un espace + de la colle + de la peinture + du bois + du papier + ect... = un lieu pour fabriquer un oeuvre d'art 
+Ca m'apporte quoi ? la consigne serait de traduire en art, ce que tu apprends sur toi tous les jours. Tu vas pouvoir : 
+- Expérimenter la pratique artistique
+- Découvrir que le processus de création est progressif, qu'il fonctionne étape par étape et que ça marche !
+- Créer une oeuvre qui te ressemble
+- Aller un peu plus loin dans l'analyse de ce que tu as découvert sur toi
+- Y représenter tes objectifs et l'utiliser comme un "phare" qui te donne la direction pour tes projets futurs
+
 
