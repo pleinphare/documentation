@@ -1,4 +1,4 @@
-#Comment on va t'aider ? Des atelier innovants
+#Comment on va t'aider ? Des ateliers innovants
 
 **The Speed boat**  
 Kezako ? Un grand dessin représentant ton projet + des post-it avec toutes tes idées = la base conrète pour démarer ton projet !  
