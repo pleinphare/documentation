@@ -2,10 +2,12 @@
 
 **The Speed boat**  
 Kezako ? Un grand dessin représentant ton projet + des post-it avec toutes tes idées = la base conrète pour démarer ton projet !  
-Ca m'apporte quoi ? Mieux cerner ce dans quoi tu veux t'engager, faire une sorte de diagnostic ludique des possibilités.  
+Ca m'apporte quoi ? Tu vas pouvoir : 
+Mieux cerner ce dans quoi tu veux t'engager  
+Faire une sorte de diagnostic ludique des possibilités  
 
 **L'Impact mapping**  
-Kézako ? Un pro qui te pose des questions bien choisies + un grand mur + des post-it + tes idées = une méthode ludique pour fabriquer sans t'en rendre compte les premières pierres du sens que tu peux donner à ta vie/  
+Kézako ? Un pro qui te pose des questions bien choisies + un grand mur + des post-it + tes idées = une méthode ludique pour fabriquer sans t'en rendre compte les premières pierres du sens que tu peux donner à ta vie.  
 Ca m'apporte quoi ? Une bonne idée de ce pourquoi tu es sur cette petite planète.  
 
 **Atelier de cuisine créative**  
@@ -17,28 +19,40 @@ Ca m'apporte quoi ? Tu vas pouvoir :
 - contribuer au bien commun en faisant à manger pour les autres  
 
 **Arbrifest**  
-Kezako ? Un pro + des post-it + tes valeurs et convictions + des questions bien posées = définir tes valeurs pour en tirer des principes et engager des actions 
-Ca m'apporte quoi ? une occasion d'agir en congruances avec ce qui t'anime vraiement, une base qui viens réellement de toi pour réfléchir dans quoi t'engager, une piste pour donner du sens à ta vie.  
+Kezako ? Un pro + des post-it + tes valeurs et convictions + des questions bien posées = définir tes valeurs pour en tirer des principes et engager des actions  
+Ca m'apporte quoi ?  
+- une occasion d'agir en congruances avec ce qui t'anime vraiement  
+- une base qui viens réellement de toi pour réfléchir dans quoi t'engager  
+- une piste pour donner du sens à ta vie.  
 
 **Atelier photo et reconnexion à soi**
 Kézako ? un appareil photo + toi + une consigne = un atelier photo
-Ca m'apporte quoi ? Tester la pratique de la photographie, créer l'occasion de prendre le temps de réfléchir à l'image que tu as de toi, et t'imaginer dans 5 ans, 10 ans.
+Ca m'apporte quoi ?  
+- tester la pratique de la photographie  
+- créer l'occasion de prendre le temps de réfléchir à l'image que tu as de toi  
+- te projeter dans le futur  
 
-**Carnet de bord**
-Kézako ? Un petit carnet qu'on t'offre au début du week-end + un stylo + des temps de retrospective/bilan après chaque atelier = la création d'un journal de bord de Toi.
-Qu'est-ce que ça m'apporte ? L'occasion de prendre le temps de réfléchir sur toi, d'analyser un peu les choses, de fabriquer une sorte de "phare" auxquel te référer lorsque tu seras un peu perdu dans tes choix de vie
+**Carnet de bord**  
+Kézako ? Un petit carnet qu'on t'offre au début du week-end + un stylo + des temps de retrospective/bilan après chaque atelier = la création d'un journal de bord de Toi.  
+Qu'est-ce que ça m'apporte ? Tu vas pouvoir : 
+- prendre le temps de réfléchir sur toi  
+- analyser un peu les choses  
+- fabriquer une sorte de "phare" auxquel te référer lorsque tu seras un peu perdu dans tes choix de vie
 
-**Théâtre impro**
+**Théâtre impro**  
 Kézako ? des jeunes + un pro + une scène + un thème = des mini-pièces de théâtre tout droit sorties de l'imaginaire collectif
-Qu'est-ce que ça m'apporte ? de réaliser qu'à partir de rien on peut créer quelque chose, de t'entraîner à te positionner face à un public et une autre personne, de découvrir une activité.
+Qu'est-ce que ça m'apporte ? Tu vas pouvoir :  
+- réaliser qu'à partir de rien on peut créer quelque chose  
+- t'entraîner à te positionner face à un public et une autre personne  
+-d écouvrir une activité  
 
-**Atelier d'art permanent**
+**Atelier d'art permanent**  
 Kézaco ? Un espace + de la colle + de la peinture + du bois + du papier + ect... = un lieu pour fabriquer un oeuvre d'art 
 Ca m'apporte quoi ? la consigne serait de traduire en art, ce que tu apprends sur toi tous les jours. Tu vas pouvoir : 
-- Expérimenter la pratique artistique
-- Découvrir que le processus de création est progressif, qu'il fonctionne étape par étape et que ça marche !
-- Créer une oeuvre qui te ressemble
-- Aller un peu plus loin dans l'analyse de ce que tu as découvert sur toi
-- Y représenter tes objectifs et l'utiliser comme un "phare" qui te donne la direction pour tes projets futurs
+- expérimenter la pratique artistique
+- découvrir que le processus de création est progressif, qu'il fonctionne étape par étape et que ça marche !
+- créer une oeuvre qui te ressemble
+- aller un peu plus loin dans l'analyse de ce que tu as découvert sur toi
+- y représenter tes objectifs et l'utiliser comme un "phare" qui te donne la direction pour tes projets futurs
 
 
