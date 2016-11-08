@@ -1,4 +1,4 @@
-#Comment on va t'aider
+#Comment on va t'aider ? 
 
 - **5/6 professionnels** présents et disponibles tout au long du week-end pour échanger avec toi et t'accompagner
 - **Un suivi** est prévu après le week-end : on pourra rester en contact et continuer à échanger toute l'année si tu en as besoin
