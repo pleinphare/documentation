@@ -24,7 +24,7 @@ Ca m'apporte quoi ? Tu vas pouvoir :
 - tester tes limites
 - percuter que ce qui peut parraître angoissant ne l'est en fait  pas toujours et qu'il existe des solutions pour pallier à cette angoisse 
 
-**Atelier d'art permanent**
+**Atelier d'art permanent**  
 Kézaco ? Un espace + de la colle + de la peinture + du bois + du papier + ect... = un lieu pour fabriquer un oeuvre d'art 
 Ca m'apporte quoi ? la consigne serait de traduire en art, ce que tu apprends sur toi tous les jours. Tu vas pouvoir : 
 - Expérimenter la pratique artistique
@@ -33,8 +33,9 @@ Ca m'apporte quoi ? la consigne serait de traduire en art, ce que tu apprends su
 - Aller un peu plus loin dans l'analyse de ce que tu as découvert sur toi
 - Y représenter tes objectifs et l'utiliser comme un "phare" qui te donne la direction pour tes projets futurs
 
-**Ballade aux environs**
+**Ballade aux environs**  
 Kézaco ? Ben quoi une ballade tu sais pas ce que c'est ?  
 Ca m'apporte quoi ? Tu vas pouvoir :  
 - découvrir que l'activité physique est une vraie aubaine pour notre esprit et notre cerveau puisqu'elle permet de prendre du recul  
 - découvrir de nouvelle manière d'apprendre et de travailler ensemble (oui il existe de manières bien plus enthousiasmentes que de rester derrière des bureaux)  
+- prendre de la hauteur et découvrir l'importance de changer de point de vue et de regard !
