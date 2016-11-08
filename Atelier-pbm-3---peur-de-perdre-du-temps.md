@@ -32,3 +32,9 @@ Ca m'apporte quoi ? la consigne serait de traduire en art, ce que tu apprends su
 - Créer une oeuvre qui te ressemble
 - Aller un peu plus loin dans l'analyse de ce que tu as découvert sur toi
 - Y représenter tes objectifs et l'utiliser comme un "phare" qui te donne la direction pour tes projets futurs
+
+**Ballade aux environs**
+Kézaco ? Ben quoi une ballade tu sais pas ce que c'est ?  
+Ca m'apporte quoi ? Tu vas pouvoir :  
+- découvrir que l'activité physique est une vraie aubaine pour notre esprit et notre cerveau puisqu'elle permet de prendre du recul  
+- découvrir de nouvelle manière d'apprendre et de travailler ensemble (oui il existe de manières bien plus enthousiasmentes que de rester derrière des bureaux)  
