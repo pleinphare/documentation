@@ -1,0 +1,9 @@
+#Comment on va t'aider
+
+- 5/6 professionnels présents et disponible tout au long du week-end pour échanger avec toi et t'accompagner
+- Un suivi est prévu après le week-end : on pourra rester en contact et continuer à échanger toute l'année si tu en as besoin
+- Un espace ressource te permettra de découvrir et récolter tout un tas de ressources (livres, site, vidéos, contacts...) que tu pourras utiliser ensuite pour travailler sur ton projet
+- D'autres jeunes qui vivent la même situation que toi seront présents. Rien de tel pour ne plus être seul et se serrer les coudes !
+- Des rencontres annuelles, des évènements pourront être organisées pour continuer à se voir et s'entraider
+
+
