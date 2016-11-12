@@ -1,4 +1,5 @@
 
+
 *Cette fiche est à dupliquer : créer un nouveau fichier et copier le contenu de cette fiche à l'intérieur*
 
 **Date :** 9 Novembre 2016
@@ -19,6 +20,7 @@ il ne sait pas
 - Quoi faire après le bac ? - [ ] exactement - [ ] à peu près - [x ] flou
 
 ### Solutions
+
 toute une équipe de gens motivés pour t'aider.
 **Priorité :** 3/3 |
 **Pénibilité :** 3/3
