@@ -3,32 +3,34 @@ title: compte rendu du temps de travail numéro 3
 description: journal de bord de notre troisième jour de travail ensemble
 ---
 
-# jour 3
+# Jour 3
 
-Aujourd’hui je me suis reveillée à 7h pour pouvoir rejoindre Julia dans le centre ville de Montpellier. Elle me récupère en voiture pour  aller directement au camping où Stéphane et Louna ont dormi et nous attendent pour commencer la journée. Pour une fois j'arrive en avance à mon point de rendez vous ! J'ai le temps de me prendre un café rapide histoire pour de me réveiller. Julia arrive !  Le trajet nous prend a peu près 30 minutes mais la route est très agréable et ça nous permet de faire plus connaissance. On est toutes les deux fatiguées mais on a hâte d'attaquer cette deuxième journée pour voir où va se passer cette nouvelle journée d'atelier.
+Aujourd’hui je me suis reveillée à 7h pour pouvoir rejoindre Julia dans le centre ville de Montpellier. Elle me récupère en voiture pour  aller directement au camping où Stéphane et Louna ont dormi et nous attendent pour commencer la journée. Pour une fois j'arrive en avance à mon point de rendez vous ! J'ai le temps de me prendre un café rapide histoire de me réveiller. Julia arrive !  Le trajet nous prend à peu près 30 minutes mais la route est très agréable et ça nous permet de faire plus connaissance. On est toutes les deux fatiguées mais on a hâte d'attaquer cette deuxième journée !
 
 ##Il est 9 heures 15
-Nous arrivons à notre destination : le camping D'anglas. On rejoint Louna et Stéphane à une petite terrasse au restaurant du camping. Autour de nous il n'y a que des montagnes, c'est très beau, vert, et pas loin la rivère nous attend ! La journée commence ici, à la terrasse, claviers en main ! Chaque personne raconte ce qu'elle a fait pour le projet depuis la dernière fois que nous nous sommes vus. Nous avons du nouveau par rapport au fond qu'il serait possible d'avoir grace au  departement. Il y a aussi du nouveau par rapport au logement, nous avons chacun trouvés différents potentiel lieux, Julia a comme idée un gite dans la campagne avec des cheveaux et un potager bio, j'ai trouvé une grande maison sur airbnb avec une grande piscine et une charamante coure. Mais après discutions, nous nous mettons d accord sur « equi sud », une auberge d'un amis de Stéphane qui est aussi à la campagne et serait parfaite car lui connait le propriétaire, que la location est agréable et que ça saccroderai avec notre budget. Louna nous fait aussi lire le conpte rendu qu'elle a fait de la précedente journée. 
-Après ce debriefing nous decidons de faire un premier jet d'un minimum des interviews problèmes Stepane nous propose différentes plates-formes que nous ne connessions pas pour pouvoir travailler en meme temps sur un meme document. Nous commencons donc à rediger sur Etherpad, ce qui nous permet de modifier le document en meme temps. Le but est de créer des interviews que nous allons faire a des jeunes qui rentrent dans les personnes cibles intéressés pour pouvoir nous donner une idées plus précise des problèmes qu'ils rencontrent et de pourquoi ils n'arrivent pas à les résoudre. En bref pourquoi a 17 ans, de plus en plus de jeunes, à la veille du post bac se retrouvent sans aucunes idées de ce qui veulent faire après. 
+Nous arrivons à notre destination : le camping d'Anglas. On rejoint Louna et Stéphane à une petite terrasse au restaurant du camping. Autour de nous il n'y a que des montagnes, c'est très beau, vert, et pas loin la rivière nous attend ! La journée commence ici, à la terrasse, claviers en main !
+On commence par un tour de table : chacun présente ses avancées depuis la dernière fois : présentation des nouvelles pistes de financement, des lieux susceptibles de nous accueillir (Julia propose une ferme pédagogique dans le Cantal,  moi  j'ai trouvé une grande maison avec coure et piscine sur Airbnb et Stéphane nous présente le gîte équestre "EquiSud". Nous nous mettons rapidement d'accord sur ce dernier. Le patron est un ami, le lieu semble sympathique, adapté et pas trop cher. Pour finir, Louna nous présente le compte rendu du dernier atelier.
+
+Etape suivante, on décide d'avancer sur les interviews problème.
+Pour ça, on ré-interroge nos outils collaboratif pour ajouter Etherpad à Trello et Slack.
+L'idée : rédiger le contenu des des interviews que nous allons mener auprès des jeunes que nous ciblons afin d'avoir une idées plus précise des problèmes qu'ils rencontrent et de pourquoi ils n'arrivent pas à les résoudre. En bref pourquoi a 17 ans, de plus en plus de jeunes, à la veille du post bac se retrouvent sans aucune idée de ce qui veulent faire après.
 
 ##Il est 10 heures 30
-Nous avons fini le travail avec les ordintateurs. Nous decidons de changer d'endroits pour députer l'atelier que nous attendons avec impatience depuis notre derniere réunion. Celui des valeurs ! C'est donc au bord de la rivière, en cercle que nous commençons a écrire toutes les valeurs qui nous passe par la tete en rapport avec sur ce projets sur de petits postis de couleurs. Apres les avoir écrites nous lisons chacunes des valeurs a haute voix. Stephane nous demande d'en éliminer trois.. nous nous retrouvons avec … 
-ensuite deux 
-Le but est de terminer l'atelier avec seulement trois valeurs mais représentant totalement ce qu'on veux faire de ce projet et qui serons à respecter pendant la totalité de la suite du projet. Cette dernière étape engandre au seins du groupe differentes discutions. Nous nous demandons si par exemple nous devons enlever la valeur du respet pour garder celle de la liberté. Il y aurait dans ce projet la liberté de dire ce qu'on pense et de ne pas tous le temps etre dans sa mailleure forme. Cette atelier est celui, pour l'instant, qui nous a le plus entrainé à reflechir à exactement quel état d'esprit nous voulions. Apres ces grandes reflexions nous terminons, comme d'habitude par une acitivité légère et sympa; un plongeons dans la riviéres.
+Etape suivante on déménage pour s'installer au bord de l'eau. Là on commence l'atelier que nous attendions avec impatience : celui qui va nous permettre de définir les valeurs phare du projet !
+Etape 1 : on s'installe en cercle armés de feutres et de post-it pour faire la liste de toutes les valeurs qui nous passent par la tête.
+Etape 2 : on lit chacune d'entre elles à haute voix puis on débat dans le but de n'en sélectionner que 3 principales représentatives de notre intention pour ce projet. Elles nous serviront de ligne directrice tout au long de la mise en oeuvre du projet.
+Cette dernière étape engendre au sein du groupe plusieurs discussions très intéressantes. Ca nous amène par exemple à devoir choisir entre "liberté" et "respect". Nous optons pour la première : il y aurait dans ce projet la liberté de dire ce qu'on pense et de ne pas tout le temps être au meilleur de sa forme. Cette atelier est celui, pour l'instant, qui nous a le plus incité a réfléchir au sens que l'on donne au projet. Ces grandes réflexions finies, on termine comme d'habitude par une activité légère et sympa : un plongeon dans la rivières.
 
-##Il est 13heure
-Nous avons faim ! Nous sommes tres content de ce qui est sortis de cet atelier des valeurs car ça na pas était simple mais nous avons avons l'imression de tous avoir contribué en apportant ce qui nous représente. Nous changeons donc encore d'endroits pour continué notre journée. 
-C'est dans un petits restaurant en pleine verdure que Béné nous conduit. Nous arrivons dans ce petits endroit charmant et nous nous intallons sur une petite table en exterieurs.On mane chacun une de leur tipique salade de chèvres chaud, très bonne. 
-Apres ce dejeuner c'est un tout petit peu plus loins de notre table, sur un tapis dans l'herbe avec des cousins que nous commençons notre deuxième grand atelier de la journée. Au début nous avons plus envie de faire une petite sieste que de rattaquer directement cette atelier. Stephane nous propose donc des energiseurs, jeux motivants et qui resentre l'énergi du groupe.
+## Il est 13 heures
+On est très contents du résultat de l'atelier des valeurs. Même si ça n'a pas été simple, on a vraiement eu l'impression de contribuer en apportant ce qui nous représente.
+Affamés, Béné nous conduit  dans un petit restaurant en pleine verdure. Nous arrivons dans ce petit endroit charmant où on s'installe dehors sur une petite table pour nous délecter d'une salade de chèvres chauds typique et très bonne.
+Rassasiés, on se déplace un peu plus loin dans l'herbe sur un tapis avec des coussins. On débute notre 2ème atelier. Plus motivés par une petite sieste que par le travail, on se réveille à l'aide d'énergizers (jeux motivants qui recentrent l'énergie du groupe).
 
-##Il est 14h30
-nous commençons ce qui va etre le dernier atelier de notre journee. C'est un arbre qui indique
+## Il est 14h30
+On commence ce qui va être le dernier atelier de la journée. C'est un arbre qui indique...
 
 
-##Il est 17h 
-Nous avons terminer notre session ! Nous finissons avec un conseil ou chaucun a le droit de remercier quequ'un pour une chose dans la jourée. 
-Julia est remercier pour
-Louna pour 
-Stephane pour 
-et moi pour 
-Enuiste nous parlons rapidement des taches de chacuns a accomplir pour la prochaine fois. Et puis nous quittons ce joli petit endroit, pour rentrer au camping  recupérer nos affaires. Un bisous et puis à la porcahine fois, tres vite on l'espere, et avec encore plus de nouvelles idées!
+##Il est 17h
+C'est fini ! On termine cette joyeuse session par un conseil. L'idée : chacun est invité à remercier quelqu'un d'autre. Par exemple
+On a remercié Julia pour son énergie et son caractère, Louna pour sa bonne humeur, Stéphane pour le partage de ses outils et moi pour mon implication et ma capacité à me positionner.
+On clôture en se répartissant rapidement les tâches à accomplir pour la prochaine fois. Un bisous et puis à la prochaine fois, très vite on l'espère, et avec encore plus de nouvelles idées !
