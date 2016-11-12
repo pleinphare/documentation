@@ -1,3 +1,4 @@
+
 *Cette fiche est à dupliquer : créer un nouveau fichier et copier le contenu de cette fiche à l'intérieur*
 
 **Date :** 9 Novembre 2016
@@ -19,7 +20,8 @@ il ne sait pas
 
 ### Solutions
 toute une équipe de gens motivés pour t'aider.
-**Priorité :** 3/3 | **Pénibilité :** 3/3
+**Priorité :** 3/3 |
+**Pénibilité :** 3/3
 ------------ | -------------
 **Commentaires :**
 > .  
@@ -28,7 +30,8 @@ toute une équipe de gens motivés pour t'aider.
 ### Solutions
 des ateliers pour mieux te connaitre et t'aider a mieux savoir dans quoi s'angager
 
-**Priorité :** 2/3 | **Pénibilité :** 2/3
+**Priorité :** 2/3 | 
+**Pénibilité :** 2/3
 ------------ | -------------
 **Commentaires :**
 > .  
@@ -37,7 +40,8 @@ des ateliers pour mieux te connaitre et t'aider a mieux savoir dans quoi s'angag
 ### Solutions
 des atiliers innovants qui propose de voir tes poblématique sous un tout autre angle
 
-**Priorité :** 1/3 | **Pénibilité :** 1/3
+**Priorité :** 1/3 |
+**Pénibilité :** 1/3
 ------------ | -------------
 **Commentaires :**
 > .  
