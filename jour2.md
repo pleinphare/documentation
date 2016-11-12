@@ -7,7 +7,7 @@ Aujourd’hui, 22 Juillet 2016;  Julia nous récupère au tram Sonia et moi. Nou
 On mange sur place, puis on s’installe dans les canapés à l’intérieur et on commence un peu de concret :
 Quelles sont les tâches à faire ? Comment les prioriser ? 
 On note tout sur des posts-its ; puis on fait découvrir Trello à Sonia : un outil numérique de gestion de tâches. On crée un tableau "Plein phare" puis on range les tâches sous formes de « cartes »  dans des listes avec pour titre :
-A faire, En cours et Fait. Chaque liste contient plusieures cartes (ou tâches) contenant elles-même des descriptions, des check lists et les noms des personnes en charge de la tâche.
+A faire, En cours et Fait. Chaque liste contient plusieurs cartes (ou tâches) contenant elles-même des descriptions, des checklists et les noms des personnes en charge de la tâche.
 Par exemple dans la carte "trouver un lieu", la descriptions précise "un endroit éloigné de notre quotidien, mais pas trop pour faciliter le transport pouvant accueillir au minimum 15 personnes", la checklist (choses à faire pour cette tâche) précises : chercher sur airbnb, Gîtes de France, le bon coin.
 
 Ensuite, on commence à imaginer le prix. Pour ça on va directement interviewer des gens dans la rue. Certains disent que c’est trop cher, d’autres que non c’est vraiment acceptable.
