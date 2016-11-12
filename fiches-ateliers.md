@@ -7,3 +7,7 @@
 - [Projets innovants](http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/soutenir_porteurs_projets/lean_canvas.md)
 - [Débat mouvant](http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/faire_connaissance/debat_mouvant.md)
 - [Hélium et Marshmallow](http://www.multibao.org/#lifeisaseriousgame/Icebreakers_et_jeux_d_inclusion/blob/master/icebreakers_pour_passer_un_message.md)
+- [Le tableau](...)
+
+## Plus loin
+- [Agile Game](http://www.agilegamesfrance.fr/index.php?title=Jeux)
