@@ -1,5 +1,8 @@
 Sortir de sa zone de confort : https://www.youtube.com/watch?v=wZqegnIq-Ao
 = l'intérêt de ne pas avoir peur de l'inconnu au contraire, aller à asa rencontre car va te faire beaucoup grandir et connectre avec ton pouvoir d'agir.
+Petit traité sur la peur : https://www.youtube.com/watch?v=An18wQ3asMw&feature=youtu.be
+
+
 Pourquoi j'ai créé une école où les enfants font ce qu'ils veulent : https://www.youtube.com/watch?v=Mi59UJYV9jU
 = L'école telle qu'on la pense n'est pas la seule solution 
 5 qualités qui font échouer à l'école mais réussir dans la vie : https://www.youtube.com/watch?v=9rb5ZCe_n3k
