@@ -6,21 +6,22 @@ description: Comprendre qu'est-ce que c'est en 7 questions
 # FAQ - **
 - **"Nous" c'est qui ?**
 
-Nous c'est Sonia, Louna, Julia et Stef. Sonia et Louna sont au lycée et ne savent pas quoi faire. Steph et Julia sont porteur de projet et pleins d'autres choses. Ensemble on essaie de répondre à "qu'est ce que tu vas faire plus tard ?"
+Nous c'est Sonia, Louna, Julia et Stef. Sonia et Louna sont au lycée et ne savent pas quoi faire. Steph et Julia sont porteurs de projets et plein d'autres choses. Ensemble on essaie de répondre à la question "qu'est-ce que tu vas faire plus tard ?"
 
 - **Pourquoi on fait ça ?**
 
-Parce que le post-bac c'est en décembre et on nous demande d'écrire sur un petit morceau de papier ce qu'on veut faire dans notre vie, et fissa. Et nous on en sait rien et on est pas les seuls. Du coup on a eu en vie d'aider des lycéens à se découvrir assez pour engager une activité qui à du sens, c'est mieux qu'un choix par défaut.
+Parce que le post-bac c'est en décembre et on nous demande d'écrire sur un petit morceau de papier ce qu'on veut faire dans notre vie, et fissa. Et nous on en sait rien et on est pas les seuls. Du coup on a eu en vie d'aider des lycéens à se découvrir assez pour engager une activité qui a du sens, c'est mieux qu'un choix par défaut.
 
 - **Y'aura qui ?**
 
-- 8 à 12 lycéens -Une équipe de professionnels à ta disposition.
+- 8 à 12 lycéens  
+- Une équipe de professionnels à ta disposition.
 
 - **Concrètement, on y fait quoi ?**
 
-- Des ateliers grave cool.
-- Des recaps tous ensemble
-- Des discussion avec tout le monde
+- Des ateliers graves cools
+- Des récaps tous ensemble
+- Des discussions avec tout le monde
 - Des jeux
 - Des temps de retranscription des ateliers
 
