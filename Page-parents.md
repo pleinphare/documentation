@@ -9,7 +9,7 @@ Cher parent ! Nous sommes ravis que vous soyez arrivés jusqu'ici. Nous sommes r
 
 **"Nous" c'est qui ?**
 
-Nous c'est Sonia, Louna, Julia et Stéphane. Sonia et Louna sont en terminale et ne savent pas qu'elle orientation choisir. Stéphane est le père de Louna. Il aide les entreprises et collectifs à mieux s'organiser en les formant à des méthodes de gestion de projet innovantes. Julia est animatrice socioculturelle et vidéaste indépendante.
+Nous c'est Sonia, Louna, Julia et Stéphane. Sonia et Louna sont en terminale et ne savent pas qu'elle orientation choisir. Stéphane est le père de Louna et il aide les entreprises et collectifs à mieux s'organiser en les formant à des méthodes de gestion de projet innovantes. Julia est animatrice socioculturelle et vidéaste indépendante.
 
 Ensemble on a décidé d'aider les lycéens qui ne savent pas répondre à la question "qu'est-ce que tu vas faire plus tard ?"
 
@@ -41,18 +41,18 @@ A n'importe quel lycéen qui ne sait pas quoi choisir comme orientation scolaire
 
 **Comment se passe l'organisation ?**
 
-On va décider ensemble de l'organisation collective dès le premier soir, répartir les ateliers sur les deux jours grâce a des outils innovants (forum ouvert) prévus pour ça. On va essayer de s'organiser pour que chacun décide de ce qu'il veut faire quand et comment il veut le faire.
+On va décider ensemble de l'organisation collective dès le premier soir, répartir les ateliers sur les deux jours grâce à des outils innovants (forum ouvert) prévus pour ça. On va essayer de s'organiser pour que chacun décide de ce qu'il veut faire quand et comment il veut le faire.
 
 
 **Qu'allez-vous manger ?**
 
-Ça va se décider ensemble via des ateliers collectifs de cuisines animés par Bénédicte (cuisine créative et gourmande). Mais si votre jeune a un régime spécial prévenez-nous on prévoira.
+Ça va se décider ensemble via des ateliers collectifs de cuisine animés par Bénédicte (cuisine créative et gourmande). Mais si votre jeune a un régime spécial prévenez-nous on prévoira.
 
 
 **Concrètemenet qu'est-ce que ça apporte à mon jeune ?**  
 
 A la fin du stage, il aura :
-- Réfléchis au sens qu'il veut donner à sa vie
+- Réfléchi au sens qu'il veut donner à sa vie
 - Au minimum de l'inspiration pour son orientation soclaire, au mieux une idée précise de ce qu'il veut faire après le bac
 - Abordé ses problématiques sous un nouvel angle ce qui lui aura permis de déconstruire certaines croyances négatives sur lui et son orientation scolaire
 - Expérimenté des outils pour mieux s'organiser (gestion de tâches, développement de projet)
@@ -62,11 +62,11 @@ A la fin du stage, il aura :
 - Réalisé une oeuvre artistique
 - Toute une série d'outils d'animation de groupe innovants qu'il pourra réutiliser
 - Découvert de nouvelles activités (photogrpahie, vidéo, éducation canine, self-défense, méditation...)
-- Des invitations régulières pour des rencontres, évènements, sorties animations afin de concerver la dynamique et rester en lien.
+- Des invitations régulières pour des rencontres, évènements, sorties, animations afin de conserver la dynamique et rester en lien.
 
 **Ça se passe où ?**
 
-Au milieu des montagnes, dans les Pyrénées (station de ski les Angles). Nous serons logés dans un gîte de 24 places. Les lits sont répartis entre un dortoir et 4 chambres.
+Au milieu des montagnes, dans les Pyrénées Orientales (station de ski les Angles). Nous serons logés dans un gîte de 24 places. Les lits sont répartis entre un dortoir et 4 chambres.
 
 **Comment on s'y rend ?**
 
@@ -85,7 +85,7 @@ Contactez-nous et on verra si on peut trouver des solutions ensemble.
 
 **Que faites vous de l'argent ?**
 
-On l'utilise pour payer le lieux, la nourriture, mais surtout les trajets des intervenants qui viennent d'un peu loin.
+On l'utilise pour payer le lieu, la nourriture, mais surtout les trajets des intervenants qui viennent d'un peu loin.
 
 **On s'inscrit où ?**
 
