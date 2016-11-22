@@ -3,13 +3,13 @@ title: Page parents
 description: Expliquer aux parents de quoi il s'agit avec leurs mots.
 ---
 
-Cher parent ! Nous sommes ravis que vous soyez arrivés jusqu'ici. Nous sommes ravis parceque ça va nous permettre de vous expliquer "avec nos mots" ce projet Plein Phare !
+Cher parent ! Nous sommes ravis que vous soyez arrivés jusqu'ici. Nous sommes ravis parce que ça va nous permettre de vous expliquer "avec nos mots" ce projet Plein Phare !
 
 
 
 **"Nous" c'est qui ?**
 
-Nous c'est Sonia, Louna, Julia et Stéphane. Sonia et Louna sont en terminale et ne savent pas qu'elle orientation choisir. Stéphane est le père de Louna et il aide les entreprises et collectifs à mieux s'organiser en les formant à des méthodes de gestion de projet innovantes. Julia est animatrice socioculturelle et vidéaste indépendante.
+Nous c'est Sonia, Louna, Julia et Stéphane. Sonia et Louna sont en terminale et ne savent pas quelle orientation choisir. Stéphane est le père de Louna et il aide les entreprises et collectifs à mieux s'organiser, en les formant à des méthodes de gestion de projet innovantes. Julia est animatrice socioculturelle et vidéaste indépendante.
 
 Ensemble on a décidé d'aider les lycéens qui ne savent pas répondre à la question "qu'est-ce que tu vas faire plus tard ?"
 
@@ -46,15 +46,15 @@ On va décider ensemble de l'organisation collective dès le premier soir, répa
 
 **Qu'allez-vous manger ?**
 
-Ça va se décider ensemble via des ateliers collectifs de cuisine animés par Bénédicte (cuisine créative et gourmande). Mais si votre jeune a un régime spécial prévenez-nous on prévoira.
+Ça va se décider ensemble via des ateliers collectifs de cuisine animés par Bénédicte (cuisine créative et gourmande). Mais si votre jeune a un régime spécial, prévenez-nous on prévoira.
 
 
 **Concrètemenet qu'est-ce que ça apporte à mon jeune ?**  
 
 A la fin du stage, il aura :
 - Réfléchi au sens qu'il veut donner à sa vie
-- Au minimum de l'inspiration pour son orientation soclaire, au mieux une idée précise de ce qu'il veut faire après le bac
-- Abordé ses problématiques sous un nouvel angle ce qui lui aura permis de déconstruire certaines croyances négatives sur lui et son orientation scolaire
+- Au minimum de l'inspiration pour son orientation scolaire, au mieux une idée précise de ce qu'il veut faire après le bac
+- Abordé ses problématiques sous un nouvel angle, ce qui lui aura permis de déconstruire certaines croyances négatives sur lui et son orientation scolaire
 - Expérimenté des outils pour mieux s'organiser (gestion de tâches, développement de projet)
 - Un carnet de bord (qu'il aura lui-même rédigé) rassemblant toutes les informations qu'il aura appris sur lui durant le stage (résumé de toutes les rétrospectives)
 - Un réseau solidaire de jeunes qui partagent les mêmes problématiques
