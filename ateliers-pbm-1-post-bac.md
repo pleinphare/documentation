@@ -1,8 +1,9 @@
-# Comment on va t'aider ? Des ateliers innovants
+# Comment on va t'aider ? Grâce à des ateliers innovants
 
 ## **The Speed boat**  
-Kezako ? Un grand dessin représentant ton projet + des post-it avec toutes tes idées = la base concrète pour démarrer ton projet !  
-Ca m'apporte quoi ? Tu vas pouvoir : 
+Kezako ? Un grand dessin représentant ton projet + des post-it avec toutes tes idées = la base concrète pour démarrer ton projet !    
+
+Ca m'apporte quoi ? Tu vas pouvoir :
 - mieux cerner ce dans quoi tu veux t'engager  
 - faire une sorte de diagnostic ludique des possibilités  
 
@@ -31,30 +32,29 @@ Kézako ? un appareil photo + toi + une consigne = un atelier photo
 Ca m'apporte quoi ? Tu vas pouvoir :  
 - tester la pratique de la photographie  
 - prendre le temps de réfléchir à l'image que tu as de toi  
-- te projeter dans le futur  
+
 
 ## **Carnet de bord**  
 Kézako ? Un petit carnet qu'on t'offre au début du week-end + un stylo + des temps de retrospective/bilan après chaque atelier = la création d'un journal de bord, à Toi.  
-Qu'est-ce que ça m'apporte ? Tu vas pouvoir : 
-- prendre le temps de réfléchir sur toi  
-- analyser un peu les choses  
-- fabriquer une sorte de "phare" auquel te référer lorsque tu seras un peu perdu dans tes choix de vie
+Qu'est-ce que ça m'apporte ? Tu vas pouvoir :
+- aménager un temps pour réfléchir sur toi
+- recenser tout un tas d'infos sur toi (ce qui te plaît, ce qui t'inspire (ou pas!)  
+- constituer une sorte de "dictionnaire" dans lequel tu pourra aller piocher des pistes, des infos dès que tu seras un peu perdu dans tes choix de vie
 
 ## **Théâtre impro**  
 Kézako ? des jeunes + un pro + une scène + un thème = des mini-pièces de théâtre tout droit sorties de l'imaginaire collectif
 Qu'est-ce que ça m'apporte ? Tu vas pouvoir :  
 - réaliser qu'à partir de rien on peut créer quelque chose  
 - t'entraîner à te positionner face à un public et une autre personne  
--découvrir une activité  
+- découvrir la pratique du théâtre  
 
 ## **Atelier d'art permanent**  
-Kézaco ? Un espace + de la colle + de la peinture + du bois + du papier + etc... = un lieu pour fabriquer une oeuvre d'art 
+Kézaco ? Un espace + de la colle + de la peinture + du bois + du papier + etc... = un lieu pour fabriquer une oeuvre d'art
 La consigne serait de traduire en art, ce que tu apprends sur toi tous les jours.
-Ca m'apporte quoi ?  Tu vas pouvoir : 
+Ca m'apporte quoi ?  Tu vas pouvoir :
 - expérimenter la pratique artistique
 - découvrir que le processus de création est progressif, qu'il fonctionne étape par étape et que ça marche !
 - créer une oeuvre qui te ressemble
 - aller un peu plus loin dans l'analyse de ce que tu as découvert sur toi
 - y représenter tes objectifs et l'utiliser comme un "phare" qui te donne la direction pour tes projets futurs
-
-
+- mieux qu'un album photo, tu vas pouvoir l'utiliser pour présenter tout ce que tu as appris sur toi à tes amis, ta famille.
