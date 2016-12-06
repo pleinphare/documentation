@@ -2,10 +2,9 @@
 title: Page parents
 description: Expliquer aux parents de quoi il s'agit avec leurs mots.
 ---
-
-Cher parent ! Nous sommes ravis que vous soyez arrivés jusqu'ici. Nous sommes ravis parce que ça va nous permettre de vous expliquer "avec nos mots" ce projet Plein Phare !
-
-
+Pourquoi inscrire mon jeune à Plein Phare ?
+Après le lycée fini l'encadrement. C'est la vraie vie. Pour s'organiser, être autonome, faire les bons choix, prioriser sa vie, donner du sens à ce que l'on fait... il faut des outils et des compétences que le collège et le lycée n'adressent pas. 
+Plein Phare est le socle qu'on a créé pour transmettre nos outils et nos compétences à un maximum de jeunes. L'idée : faciliter l'entrée dans leur vie d'étudiants et d'adulte. 
 
 **"Nous" c'est qui ?**
 
@@ -15,7 +14,6 @@ Ensemble on a décidé d'aider les lycéens qui ne savent pas répondre à la qu
 
 **Qu'est-ce qui nous motive ?**  
 Participer à créer des adultes épanouis, engagés et bien dans leurs baskets. Des adultes dont la vie résonne avec leurs valeurs et pour qui se lever le matin est tout sauf une corvée !
-
 
 **Qui participe à ce week-end ?**  
 Une dizaine d'autres lycéens accompagnés par 4 professionnels à leur disposition.
@@ -60,6 +58,10 @@ A la fin du stage, il aura :
 - Un réseau solidaire de jeunes qui partagent les mêmes problématiques
 - Les coordonnées des professionnels prêts à assurer un suivi régulier tout au long de l'année
 - Réalisé une oeuvre artistique
+- Des professionnels compétents : de l'indépendante en communication audiovisuelle au conseiller en gestion de projet d'industries internationnales
+- Des outils "agiles" qu'ils pourront utiliser dans n'importe qu'elle situation (professionnelle, de loisirs, d'engagement...)
+- Plein phare est comme un rite de passage vers l'âge adulte : le lycée cadrant mais à la fac il faut être autonome. Aujourd'hui qu'ils choisissent la fac ou la vie pro, ils ne sont pas préparé à l'autonomie et l'indépendance. On vous propose de leur transmettre ces outils.
+- 
 - Toute une série d'outils d'animation de groupe innovants qu'il pourra réutiliser
 - Découvert de nouvelles activités (photogrpahie, vidéo, éducation canine, self-défense, méditation...)
 - Des invitations régulières pour des rencontres, évènements, sorties, animations afin de conserver la dynamique et rester en lien.
