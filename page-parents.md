@@ -4,7 +4,7 @@ description: Expliquer aux parents de quoi il s'agit avec leurs mots.
 ---
 Pourquoi inscrire mon jeune à Plein Phare ?  
 
-*Plein phare est comme un rite de passage vers l'âge adulte : aujourd'hui qu'ils choisissent la fac ou la vie pro, les jeunes ne sont pas préparés à l'autonomie et l'indépendance. On vous propose de leur transmettre ces outils.*  
+*"Plein phare est comme un rite de passage vers l'âge adulte : aujourd'hui qu'ils choisissent la fac ou la vie pro, les jeunes ne sont pas préparés à l'autonomie et l'indépendance. On vous propose de leur transmettre ces outils."*  
 
 Argument 1  - Après le lycée fini l'encadrement. C'est la vraie vie. Pour s'organiser, être autonome, faire les bons choix, prioriser sa vie, donner du sens à ce que l'on fait... il faut des outils et des compétences que le collège et le lycée n'adressent pas. 
 Plein Phare est le socle qu'on a créé pour transmettre nos outils et nos compétences à un maximum de jeunes. L'idée : faciliter l'entrée dans leur vie d'étudiants et d'adulte. 
