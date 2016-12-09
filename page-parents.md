@@ -2,9 +2,13 @@
 title: Page parents
 description: Expliquer aux parents de quoi il s'agit avec leurs mots.
 ---
-Pourquoi inscrire mon jeune à Plein Phare ?
-Après le lycée fini l'encadrement. C'est la vraie vie. Pour s'organiser, être autonome, faire les bons choix, prioriser sa vie, donner du sens à ce que l'on fait... il faut des outils et des compétences que le collège et le lycée n'adressent pas. 
+Pourquoi inscrire mon jeune à Plein Phare ?  
+
+*Plein phare est comme un rite de passage vers l'âge adulte : aujourd'hui qu'ils choisissent la fac ou la vie pro, les jeunes ne sont pas préparés à l'autonomie et l'indépendance. On vous propose de leur transmettre ces outils.*  
+
+Argument 1  - Après le lycée fini l'encadrement. C'est la vraie vie. Pour s'organiser, être autonome, faire les bons choix, prioriser sa vie, donner du sens à ce que l'on fait... il faut des outils et des compétences que le collège et le lycée n'adressent pas. 
 Plein Phare est le socle qu'on a créé pour transmettre nos outils et nos compétences à un maximum de jeunes. L'idée : faciliter l'entrée dans leur vie d'étudiants et d'adulte. 
+Argument 2 - Bien trop d'adultes choisissent de s'engager dans un corps de métier, une profession, un contexte professionnel qui n'est pas à leur image. Le résultat ? Une vie qui peut-être, certes confortable, mais pas toujours épanouissante et loin de révéler leur potentiel. Plein Phare est l'occasion pour les jeunes de s'interroger sur le sens qu'il veulent donner à leur vie. L'idée : leur permettre de s'engager dans des activités qui les enthousiasment !
 
 **"Nous" c'est qui ?**
 
@@ -13,7 +17,7 @@ Nous c'est Sonia, Louna, Julia et Stéphane. Sonia et Louna sont en terminale et
 Ensemble on a décidé d'aider les lycéens qui ne savent pas répondre à la question "qu'est-ce que tu vas faire plus tard ?"
 
 **Qu'est-ce qui nous motive ?**  
-Participer à créer des adultes épanouis, engagés et bien dans leurs baskets. Des adultes dont la vie résonne avec leurs valeurs et pour qui se lever le matin est tout sauf une corvée !
+On a eu envie de faire notre part pour faire bouger la société tout en s'amusant. 
 
 **Qui participe à ce week-end ?**  
 Une dizaine d'autres lycéens accompagnés par 4 professionnels à leur disposition.
@@ -60,8 +64,6 @@ A la fin du stage, il aura :
 - Réalisé une oeuvre artistique
 - Des professionnels compétents : de l'indépendante en communication audiovisuelle au conseiller en gestion de projet d'industries internationnales
 - Des outils "agiles" qu'ils pourront utiliser dans n'importe qu'elle situation (professionnelle, de loisirs, d'engagement...)
-- Plein phare est comme un rite de passage vers l'âge adulte : le lycée cadrant mais à la fac il faut être autonome. Aujourd'hui qu'ils choisissent la fac ou la vie pro, ils ne sont pas préparé à l'autonomie et l'indépendance. On vous propose de leur transmettre ces outils.
-- 
 - Toute une série d'outils d'animation de groupe innovants qu'il pourra réutiliser
 - Découvert de nouvelles activités (photogrpahie, vidéo, éducation canine, self-défense, méditation...)
 - Des invitations régulières pour des rencontres, évènements, sorties, animations afin de conserver la dynamique et rester en lien.
