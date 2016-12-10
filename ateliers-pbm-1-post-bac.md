@@ -52,6 +52,18 @@ un appareil photo + toi + une consigne = un atelier photo
 - tester la pratique de la photographie  
 - prendre le temps de réfléchir à l'image que tu as de toi
 
+## Education canine
+**Kézako ?**  
+Tu pourras découvrir les bases pour dresser un chien et te confronter au rôle "d'éducateur" et de celui qui "donne les ordres". Pour ça on va passer le week-end avec Corto, un toutou d'un an très gentil mais très foufou. 
+
+**Qu'est-ce que ça m'apporte ?** :  
+- découvrir la pratique de l'éducation canine
+- apprendre à poser un cadre, des limites pour te faire respecter
+- tester la posture de "celui qui ordonne" et "celui qui transmet"
+- expérimenter la fermeté : tu ne dois pas céder avant le chien !
+- apprendre à formuler des demandes précises et aller au bout de ces demande
+- expérimenter le relationnel avec l'animal
+
 ## Carnet de bord
 **Kézako ?**  
 Un petit carnet qu'on t'offre au début du week-end dans lequel tu seras invité (tout au long du week-end) à inscrire toutes les choses que tu vis et/ou apprends durant les ateliers ou les moments collectifs. Pour ça tu pourras t'appuyer sur les "retrospectives" (mini-bilans) qu'on fera après chaque atelier.
