@@ -24,6 +24,7 @@ Applicateur de nouvelles façons de monter des projets collectivement
 
 **Julia**  
 ![Photo Ju](https://github.com/pleinphare/documentation/blob/master/media/Profil%20Ju%20.png)  
-26 ans  
-Vidéaste pour ceux qui essaient d'accélérer le changement de société  
-*"Plein phare c'est comme un laboratoire de recherche pour la création d'adultes créateurs ou les jeunes sont à la fois les cobayes et les chercheurs !"*
+Animatrice professionnelle diplômée, je suis aussi vidéaste indépendante et porteuse de projet pour faire avancer la société. 
+J'adorais l'animation mais je voulais que mes actions aient d'avoir plus d'impact. C'est comme ça que je me suis lancée dans le journalisme constructis et la vidéo. Résultat ? 5 années à fréquenter des citoyens engagés pour le changement de société. 
+Plein phare est pour moi l'occasion d'allier mon envie d'agir pour le changement de monde et tout en utilisant mes compétences en animations. 
+
