@@ -4,12 +4,12 @@ Comment on va t'aider ? Via des ateliers innovants, ludiques et originaux !
 
 ## Méditation au réveil
 **Kézaco ?**  
-Toi posé quelque part + du silence + des pleines respirations = un temps de détente où on tente de ne pas bouger et de de ne pas penser pour être concentré sur ce qu'on ressent, ce qu'on entend à l'instant.  
+C'est une pratique qui t'invite à "te poser" physiquement et mentalement. Pour ça on s'installe généralement dans un endroit calme, on ferme les yeux, on se concentre sur sa respiration, les bruits, les odeurs qui nous entoure. On tente de "ne plus penser" en laissant passer les pensées et idées qui nous traverse la tête et se connecter à l'instant présent. La pratique de la méditation peut durer 2min comme 2h ! 
 
 **Ca m'apporte quoi ?**  
 - Découvrir que même si en apparence il ne se passe rien, à l'intérieur il se passe plein de choses  
 - Expérimenter une méthode qui te permettra de te reconnecter à toi  
-- Découvrir un outil (pratique, gratuit et efficace) qui t'aiderai à te recentrer, destresser, mieux gérer tes émotions, prendre du recul sur une situation compliquée  
+- Découvrir un outil (pratique, gratuit et efficace) qui t'aidera à te recentrer, destresser, mieux gérer tes émotions, prendre du recul sur une situation compliquée  
 
 ## Mashmallow show
 **Kézaco ?**  
@@ -32,17 +32,17 @@ un ninja + toi + les autres = la découverte des arts-martiaux
 - tester tes limites
 - percuter que ce qui peut parraître angoissant ne l'est en fait  pas toujours et qu'il existe des solutions pour pallier à cette angoisse
 
-## Atelier d'art permanent  
+## Atelier d'art permanent
 **Kézaco ?**  
-Un espace + de la colle + de la peinture + du bois + du papier + ect... = un lieu pour fabriquer un oeuvre d'art
-la consigne serait de traduire en art, ce que tu apprends sur toi tous les jours.  
+C'est une sorte de "buffet artistique" (comme au self sauf que les pâtes sont de la peinture, les carottes de la colle, les couteaux des ciseaux et les fourchette des feutres) où tu trouveras tout ce qu'il faut pour fabriquer une oeuvre d'art qui parlera "en art" de ce que tu as appris ce week-end. 
 
-**Ca m'apporte quoi ?** 
-- Expérimenter la pratique artistique
-- Découvrir que le processus de création est progressif, qu'il fonctionne étape par étape et que ça marche !
-- Créer une oeuvre qui te ressemble
-- Aller un peu plus loin dans l'analyse de ce que tu as découvert sur toi
-- Y représenter tes objectifs et l'utiliser comme un "phare" qui te donne la direction pour tes projets futurs
+**Ca m'apporte quoi ?** :  
+- expérimenter la pratique artistique  
+- découvrir que le processus de création est progressif, qu'il fonctionne étape par étape et que ça marche !  
+- créer une oeuvre qui te ressemble  
+- aller un peu plus loin dans l'analyse de ce que tu as découvert sur toi  
+- y représenter tes objectifs et l'utiliser comme un "phare" qui te donne la direction pour tes projets futurs  
+- mieux qu'un album photo, tu vas pouvoir l'utiliser pour présenter tout ce que tu as appris sur toi à tes amis, ta famille
 
 ## Ballade aux environs    
 **Kézaco ?**  
@@ -51,14 +51,14 @@ Ben quoi une ballade tu sais pas ce que c'est ?
 **Ca m'apporte quoi ?**  
 - te rendre compte que même si on à l'air de faire que marcher, il se passe plein de choses à l'intérieur !
 - Réaliser qu'il faut parfois sortir, changer d'air pour mieux se focaliser et avancer
-- découvrir de nouvelles manières d'apprendre et de travailler ensemble (oui il existe de manières bien plus enthousiasmentes que de rester derrière des bureaux)  
+- découvrir de nouvelles manières d'apprendre et de travailler ensemble (oui ! il existe de manières bien plus enthousiasmantes que de rester derrière des bureaux !)  
 - découvrir que l'activité physique est une vraie aubaine pour notre esprit et notre cerveau puisqu'elle permet de prendre du recul  
-- prendre de la hauteur (on est à la montage je te rappelle !)et découvrir l'importance de changer de point de vue et de regard !
+- prendre de la hauteur (on est à la montage je te rappelle !) et découvrir l'importance de changer de point de vue et de regard !
 
 ## Bien gérer son temps  
 **Kézaco ?**  
 **Ca m'apporte quoi ?**  
-- des outils pratiques, simple et concret pour mieux t'organiser et passer moins de temps à faire tes devoirs !
+- des outils pratiques, simples et concrets pour mieux t'organiser et passer moins de temps à faire tes devoirs !
 
 ## Running lean  
 **Kézaco ?**  
