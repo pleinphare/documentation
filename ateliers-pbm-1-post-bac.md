@@ -1,24 +1,24 @@
 # Mieux te connaître
-Pourquoi ? Ne plus flipper sur tes inscriptions post-bac.
-Comment on va t'aider ? *Grâce à des ateliers innovants*
+Pourquoi ? Ne plus flipper sur tes inscriptions post-bac.  
+Comment on va t'aider ? Grâce à des jeux, réflexions et ateliers ludiques et innovants
 
 ## The Speed boat
 **Kezako ?**  
-En partant d'un dessin de voilier, les participants sont invités à identifier les objectifs, les risques et les forces d'une idée ou d'un projet. La métaphore du bateau permet d'éviter de trop focaliser sur les problèmes.  
+En partant d'un dessin de voilier, tu vas pouvoir identifier les objectifs, les risques et les forces d'une idée ou d'un projet que tu as. La métaphore du bâteau permet d'éviter de trop focaliser sur les problèmes et de s'amuser à rêver !  
 
 **Ça m'apporte quoi ?** :  
 - mieux cerner ce dans quoi tu veux t'engager  
 - faire une sorte de diagnostic ludique des possibilités  
-- faire l'inventaire des forces et des faiblesses de ton projet  
+- faire l'inventaire des forces et des faiblesses d'un projet ou d'une idée que tu as
 - prioriser tes objectifs pour ne pas gaspiller tes forces  
 
 ## L'Impact mapping
 **Kézako ?**  
-L'*impact mapping* est un outil utilisé dans la création de projets innovants (startups) pour faire en sorte qu'une idée est un maximum d'impact d'une idée. Les intervenants sont invités à se concentrer sur les quatre questions suivantes :
-- **Pourquoi ?** Quels objectifs, comment mesurer l'impact  
-- **Pour qui ?** Identifier les *parties prenantes* (a qui ça s'adresse, qui participe...)  
-- **Quoi ?** En quoi, ça va changer nos vies  
-- **Comment ?** Quelles sont les actions à mettre en place
+L'*impact mapping* est un outil utilisé dans la création de projets innovants (c'est-à-dire de projets, services, objets... qui n'existent pas encore) pour faire en sorte qu'une idée est un maximum d'impact (qu'elle touche un maximum de gens ou qu'elle réponde au mieux à un besoin ou qu'elle soit vraiement efficace). Pendant cet atelier on va t'inviter à te concentrer sur les quatre questions suivantes :
+- **Pourquoi ?** Quels sont mes objectifs, comment mesurer l'impact ?  
+- **Pour qui ?** qui sont les *parties prenantes* (à qui ça s'adresse, qui participe...)  
+- **Quoi ?** En quoi ça va changer nos vies (Banzaï!)  
+- **Comment ?** Quelles sont les actions conrètes à mettre en place
 
 **Ça m'apporte quoi ?** :  
 - une vision claire des enjeux avant de t'engager pleinement dans un projet  
@@ -32,17 +32,18 @@ Revoir les codes de la cuisine pour réaliser une cuisine créative. Des repas o
 **Ça m'apporte quoi ? Tu vas pouvoir :**  
 - te rendre compte qu'avec pas grand chose à se mettre sous la dent on peut faire des trucs géniaux   
 - découvrir qu'en pensant autrement, et avec un peu de créativité), tout est possible  
-- apprendre de nouvelles recettes, adapter à tes goûts alimentaires  
+- apprendre de nouvelles recettes, adaptées à tes goûts alimentaires  
 - contribuer au bien commun en faisant à manger pour les autres  
 
 ## Arbrifest
 **Kezako ?**  
-Définir les valeurs de tes projets (c'est-à-dire le "Grand Pourquoi" tu fais tel ou tel projet, ce qui t'anime véritablement).
+Ca va permettre de savoir qu'elle sont tes valeurs (c'est-à-dire ton "Grand Pourquoi" tu veux agir dans la vie, ce qui t'anime véritablement).
 
 **Ça m'apporte quoi ?**   
-- une occasion d'agir en congruence avec ce qui t'anime vraiment  
 - une base qui vient réellement de toi pour réfléchir dans quoi t'engager  
 - une piste pour donner du sens à ta vie  
+- une occasion d'agir en congruence avec ce qui t'anime vraiment  
+
 
 ## Atelier photo et reconnection à soi
 **Kézako ?**  
@@ -58,10 +59,10 @@ Tu pourras découvrir les bases pour dresser un chien et te confronter au rôle 
 
 **Qu'est-ce que ça m'apporte ?** :  
 - découvrir la pratique de l'éducation canine
-- apprendre à poser un cadre, des limites pour te faire respecter
+- apprendre à définir tes limites et poser un cadre pour les faire respecter
+- apprendre à formuler des demandes précises et aller au bout de ces demandes
 - tester la posture de "celui qui ordonne" et "celui qui transmet"
-- expérimenter la fermeté : tu ne dois pas céder avant le chien !
-- apprendre à formuler des demandes précises et aller au bout de ces demande
+- expérimenter la fermeté : tu ne devras jamais lâcher... ou le faire en toute conscience avec une autre idée derrière la tête
 - expérimenter le relationnel avec l'animal
 
 ## Carnet de bord
@@ -85,7 +86,7 @@ des jeunes + un pro + une scène + un thème = des mini-pièces de théâtre tou
 
 ## Atelier d'art permanent
 **Kézaco ?**  
-C'est une sorte de "buffet artistique" (comme au self sauf que les pâtes sont de la peinture, les carottes de la colle, les couteaux des ciseaux et les fourchette des feutres) où tu trouveras tout ce qu'il faut pour fabriquer une oeuvre d'art qui parlera de ce que tu as appris ce week-end. L'idée : t'appuyer sur ton carnet de bord pour fabriquer ton oeuvre !
+C'est une sorte de "buffet artistique" (comme au self sauf que les pâtes sont de la peinture, les carottes de la colle, les couteaux des ciseaux et les fourchette des feutres) où tu trouveras tout ce qu'il faut pour fabriquer une oeuvre d'art qui parlera "en art" de ce que tu as appris ce week-end. 
 
 **Ca m'apporte quoi ?** :  
 - expérimenter la pratique artistique  
