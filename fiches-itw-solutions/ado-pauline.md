@@ -2,7 +2,7 @@
 **Date :** 00/00
 
 ### Informations de contact
-**Nom :** Pauline Fouvert
+**Nom :** Pauline Foubert  
 **Email :**
 
 ### Data
