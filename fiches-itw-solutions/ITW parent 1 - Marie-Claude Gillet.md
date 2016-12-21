@@ -15,19 +15,19 @@ Est-ce que votre fille :
 - Quoi faire après le bac ? - [ ] exactement - [ ] à peu près - [x ] flou
 
 ### Solutions
-le mot "activité" en baseline = activité de loisir pour Marie-Claude
-pour elle plein phare = pause, déstresser, se ressourcer, prendre de recul et pas vraiement la transmission d'outils
-pas transmission d'outils car pas compris les termes
-besoin d'infos pratiques sur les assurances, les décharges par exemple
-fiches de présentation des adultes professionnels
-A pas perçu l'implication de Louna et Sonia
-participerait à une journée de rencontre si sa fille était intéressée
-transmettre tout ça en 2 jours = ambitieux
-pas clair comment ça se passe pour participer aux ateliers (forum ouvert)
-ne connaîs pas donc ne peux pas juger si c'est innovant ou pas
-impression que ça peut aider sa fille ("ca décoince un peu").
-jeunes ont envie de faire ce qu'il veulent
-Vision très traductionnelle du monde du travail (industrie)
+le mot "activité" en baseline = activité de loisir pour Marie-Claude  
+pour elle plein phare = pause, déstresser, se ressourcer, prendre de recul et pas vraiement la transmission d'outils  
+pas transmission d'outils car pas compris les termes  
+besoin d'infos pratiques sur les assurances, les décharges par exemple  
+fiches de présentation des adultes professionnels  
+A pas perçu l'implication de Louna et Sonia  
+participerait à une journée de rencontre si sa fille était intéressée  
+transmettre tout ça en 2 jours = ambitieux  
+pas clair comment ça se passe pour participer aux ateliers (forum ouvert)  
+ne connaîs pas donc ne peux pas juger si c'est innovant ou pas  
+impression que ça peut aider sa fille ("ca décoince un peu")  
+jeunes ont envie de faire ce qu'il veulent  
+Vision très traductionnelle du monde du travail (industrie)  
 ### Prix
 
 - [ ] **480 €**  
