@@ -1,18 +1,18 @@
 
-**Date :** 21/12
+**Date :** 30/12
 
 ### Informations de contact
-**Nom :** Pauline Foubert  
+**Nom :** Thais  
 **Email :**
 
 ### Data
 
-- Où est-ce que tu vas aller après le bac ? - 
-- Ce que tu vas faire plus tard t'angoisse ? [] Oui - [ ] Non
-- Qui t'aide pour faire des choix ? - un peu parents
-- Peur de perdre du temps ? [] perte de temps 
-- Pas y arriver ou "perdre du temps" ? [] Echec - [] perte de temps 
-- Quoi faire après le bac ? - [ ] exactement - [ ] à peu près - [] flou
+- Où est-ce que tu vas aller après le bac ? - à peu près
+- Ce que tu vas faire plus tard t'angoisse ? [X] Oui - [ ] Non
+- Qui t'aide pour faire des choix ? - Oui sa mère
+- Peur de perdre du temps ? [] non au pire s'en va à l'étranger
+- Pas y arriver ou "perdre du temps" ? [] Echec - [] perte de temps non
+- Quoi faire après le bac ? - [ ] exactement - [X] à peu près - [] flou
 
 ### Solutions
 
@@ -44,8 +44,15 @@
 
 ### Notes
 
-> .  relation problème/solution pas du tout évidente
-
+> .  programme à l'air de répondre à tous les problèmes
+> .  site super, photos drôle
+> .  ateliers pas assez clairs
+> .  a bugué sur le prix
+> .  on voit mal en quoi ça répond à la question concrète "ce que je veux faire plus tard"
+> .  A adoré l'arbrifest + l'éducation canine
+> .  vocabulaire jeune est bien passé
+> .  pas compris fil 1 /fil 2
+> .  a tourné le slide
 
 ### Référants
 
