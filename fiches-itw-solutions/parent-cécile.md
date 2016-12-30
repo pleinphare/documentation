@@ -52,7 +52,9 @@ Est-ce que votre fille :
 - pour les term = le faire en septembre, octobre toussaint
 - pour les première = février c'est top
 - a adoré les valeurs de liberté
-
+- pas compris fil 1 / fil 2
+- bilan de compétences / orientation = 400/600€ et des parents payent sans problème pour ça
+- attention beaucoup de texte
 IDEE JU : lien du programme vers les ateliers en question
 
 
