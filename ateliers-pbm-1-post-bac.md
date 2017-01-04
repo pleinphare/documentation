@@ -27,13 +27,13 @@ L'*impact mapping* est un outil utilisé dans la création de projets innovants 
 
 ## Atelier de cuisine créative
 **Kézako ?**  
-Revoir les codes de la cuisine pour réaliser une cuisine créative. Des repas originaux et délicieux que tu n'avais pas imaginés !  
+Associer des saveurs inédites, cuisiner ensemble, créer du goût, réinventer, produire une oeuvre d'art qui se mange 
 
 **Ça m'apporte quoi ? Tu vas pouvoir :**  
-- te rendre compte qu'avec pas grand chose à se mettre sous la dent on peut faire des trucs géniaux   
-- découvrir qu'en pensant autrement, et avec un peu de créativité), tout est possible  
-- apprendre de nouvelles recettes, adaptées à tes goûts alimentaires  
-- contribuer au bien commun en faisant à manger pour les autres  
+- expérimenter de nouvelles sensations gustatives 
+- découvrir qu'avec un peu d'imagination, on peut faire des plats incroyables 
+- partager et faire goûter aux autres quelque chose qui te plaît, qui te ressemble 
+- t'amuser et prendre du plaisir avec des bons produits
 
 ## Arbrifest
 **Kezako ?**  
@@ -77,12 +77,13 @@ Un petit carnet qu'on t'offre au début du week-end dans lequel tu seras invité
 
 ## Théâtre impro
 **Kézako ?**  
-des jeunes + un pro + une scène + un thème = des mini-pièces de théâtre tout droit sorties de l'imaginaire collectif
+Des exercices simples pour être à l'aise avec les mots (pouvoir t'exprimer clairement), avec le silence, avec le regard des autres, avec ta propre énergie scénique.
 
 **Qu'est-ce que ça m'apporte ? Tu vas pouvoir** :    
-- réaliser qu'à partir de rien on peut créer quelque chose  
-- t'entraîner à te positionner face à un public et une autre personne  
-- découvrir la pratique du théâtre  
+- réaliser que t'exprimer est plus facile que tu ne le penses
+- t'entraîner à être détendu en public
+- découvrir que tu peux te sortir de nimporte quelle situation
+- expérimenter ton énergie poussée
 
 ## Atelier d'art permanent
 **Kézaco ?**  
