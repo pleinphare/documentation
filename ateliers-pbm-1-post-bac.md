@@ -76,7 +76,7 @@ Un petit carnet qu'on t'offre au début du week-end dans lequel tu seras invité
 - une base pour fabriquer une "oeuvre d'art" dans l'atelier artistique permanent
 
 ## Théâtre impro
-<a id="theatre"></a>
+<a name="theatre"></a>
 **Kézako ?**  
 Des exercices simples pour être à l'aise avec les mots (pouvoir t'exprimer clairement), avec le silence, avec le regard des autres, avec ta propre énergie scénique.
 
