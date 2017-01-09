@@ -1,10 +1,12 @@
 # L'ingrédient secret : [l'enthousiasme] (https://fr.wiktionary.org/wiki/enthousiasme) !
-A Plein Phare, notre ingrédient premier (celui sans lequel absolument rien n'est possible !) c'est l'enthousiasme ! Si ce que l'on propose ne t'enthousiasme pas alors mieux vaut ne pas participer !  
+A Plein Phare, le truc sans lequel absolument rien n'est possible c'est l'enthousiasme ! Si ce que l'on propose ne t'enthousiasmes pas laisse tomber, mieux vaut ne pas participer !  
   
 Pourquoi ?  
-- parcequ'on pense qu'apprendre sous la contrainte ce n'est pas apprendre  
-- que tu es le mieux placé pour savoir ce que tu as besoin d'apprendre, de faire ou d'expérimenter  
-- on a vraiment envie que tu passes un bon moment et pour ça c'est mieux de kiffer non ?  
+- parcequ'on a pas vraiement envie de travailler avec des gens qui sont pas motivés
+- parceque si tu es motivé tu vas vraiement optimiser ta présence avec nous et nous on aura pas bossé pour rien :-)
+- parcequ'on pense aussi qu'apprendre sous la contrainte ne permet pas vraiement d'apprendre 
+- parceque l'enthousiasme c'est la meilleure boussole pour savoir ce qui est le mieux pour soi. Or c'est toi qui sait ce qui te fait envie ou pas, pas nous !
+- parcequ'on a vraiment envie que tu passes un bon moment et pour ça c'est mieux de kiffer non ?  
 
 # Cultiver l'enthousiasme
 Pour faire en sorte que ce qu'on partage soit enthousiasmant, on adapte notre pédagogie :  
