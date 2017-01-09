@@ -1,6 +1,6 @@
 # Notre mot clé : [l'enthousiasme] (https://fr.wiktionary.org/wiki/enthousiasme) !
 A Plein Phare, notre ingrédient premier (celui sans lequel absolument rien n'est possible !) c'est l'enthousiasme ! Si ce que l'on propose ne t'enthousiasme pas alors mieux vaut ne pas participer !  
-Pourquoi ?  
+## Pourquoi ?  
 1) parcequ'on pense qu'apprendre sous la contrainte ce n'est pas apprendre  
 2) que tu es le mieux placé pour savoir ce que tu as besoin d'apprendre, de faire ou d'expérimenter  
 3) on a vraiment envie que tu passes un bon moment et pour ça c'est mieux de kiffer non ?  
