@@ -1,4 +1,4 @@
-# Notre mot clé : [l'enthousiasme] (https://fr.wiktionary.org/wiki/enthousiasme) !
+# L'ingrédient secret : [l'enthousiasme] (https://fr.wiktionary.org/wiki/enthousiasme) !
 A Plein Phare, notre ingrédient premier (celui sans lequel absolument rien n'est possible !) c'est l'enthousiasme ! Si ce que l'on propose ne t'enthousiasme pas alors mieux vaut ne pas participer !  
   
 Pourquoi ?  
