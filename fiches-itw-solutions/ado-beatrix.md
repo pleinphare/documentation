@@ -13,7 +13,7 @@
 elle ne sait pas
 - Ce que tu vas faire plus tard t'angoisse ? [x] Oui - [ ] Non
 - Qui t'aide pour faire des choix ? mes recherches personnelles (livres, experiences, recontres...)
-- Peur de perdre du temps ? [ x] perte de temps -peur de faire des étdes et de au final ne pas aimer ce sur quoi ça abbouti
+- Peur de perdre du temps ? [ x] perte de temps -peur de faire des études et de, au fina,l ne pas aimer ce sur quoi ça abboutit
 - Pas y arriver ou "perdre du temps" ? [x] Echec - [ ] perte de temps
 - Quoi faire après le bac ? - [ ] exactement - [ ] à peu près - [x ] flou
 
@@ -36,7 +36,7 @@ toute une équipe de gens motivés pour t'aider
 > .  
 
 ### Solutions
-des ateliers pour mieux te connaitre et t'aider a mieux savoir dans quoi s'angager
+des ateliers pour mieux te connaitre et t'aider a mieux savoir dans quoi s'engager
 
 **Priorité :** 1/3 | **Pénibilité :** 1/3
 ------------ | -------------
@@ -47,8 +47,8 @@ des ateliers pour mieux te connaitre et t'aider a mieux savoir dans quoi s'angag
 ### Prix
 
 - [ ] **500 €**
-- [ ]Je propose 500 euros, elle dit qu'elle na pas l'habitude de gerer les budgets mais que elle pense que c'est trop.
-Je baisse donc a 250 euros ça ne lui convient et lui parrait plus raisonable.
+- [ ]Je propose 500 euros, elle dit qu'elle na pas l'habitude de gerer les budgets mais qu'elle pense que c'est trop.
+Je baisse donc a 250 euros ça lui convient et lui parait plus raisonnable.
 
 ### Notes
 
@@ -57,7 +57,7 @@ Je baisse donc a 250 euros ça ne lui convient et lui parrait plus raisonable.
 > .  
 > .  
 
-### Référants
+### Référents
 
 > .  
 > .  
