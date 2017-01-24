@@ -54,10 +54,10 @@
 > .  idées Ju : expliquer l'approche pédagogique, valoriser plus les résultats
 > .  a eu du mal à comprendre les ateliers et leur relation directe avec les problèmes
 > .  site très beau, inspirant et facile à lire
-> .  les 3 onglets = les 3 problème n'est pas évident (ne va pas instinctivement sur le "en savoir plus")
+> .  les 3 onglets = les 3 problèmes ne sont pas évidents (ne va pas instinctivement sur le "en savoir plus")
 
 
-### Référants
+### Référents
 
 > .  
 > .  
