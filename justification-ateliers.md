@@ -1,9 +1,9 @@
 Speed boat :
     présent
-individuelle 
+individuel 
 but =>état des lieux/diagnostique  ( se rendre compte obstacles et ressources rencontrés) 
 futur 
-individuelle
+individuel
 
 théâtre impro ( ice breaker energiser) :
 cohésion de groupe , apprendre à se connaître 
