@@ -9,7 +9,7 @@ On a entre 17 et 43 ans. Ce qui nous relie : l'envie de "faire quelque chose" po
 
 **Sonia**  
 17 ans  
-Lycéene à tendance anarchiste qui ne fait jamais ses devoirs  
+Lycéenne à tendance anarchiste qui ne fait jamais ses devoirs  
 *citation*
 
 **Louna**  
