@@ -8,8 +8,8 @@
 ### Data
 Est-ce que votre fille : 
 - sait où elle va aller après le bac ? non
-- est agnoissée par la quetsion de ce qu'elle va faire plus tard ? oui
-- Est-elle aidé pour faire ses choix ? oui
+- est angoissée par la question de ce qu'elle va faire plus tard ? oui
+- Est-elle aidée pour faire ses choix ? oui
 - a peur de perdre du temps ?  oui
 
 ### Solutions
@@ -38,19 +38,19 @@ Est-ce que votre fille :
 
 ### Prix
 
-- [ ] **980 €** Oui (petit big quand même + besoin d'un peu de garantie de résultat + trop tard en février pour les terminal)
+- [ ] **980 €** Oui (petit bug quand même + besoin d'un peu de garantie de résultat + trop tard en février pour les terminal)
 ### Notes
 - super univers graphique, drôle et décalé
 - attention fautes d'orthographe
 - présenter les professionnels (parcours, compétences)
-- a trouvé le projet génial, veut échanger à nouveau (elle travaille dans la réaorientation professionnelle)
+- a trouvé le projet génial, veut échanger à nouveau (elle travaille dans la réorientation professionnelle)
 - très emballée par le contenu des ateliers
-- très emabllée par les arguments pour les parents "auoujourd'hui il n'y a plus de rite vers le passage à la vie adulte"
+- très emballée par les arguments pour les parents "auoujourd'hui il n'y a plus de rite vers le passage à la vie adulte"
 - attention c'est très connaissance de soi plus que outils d'autonomie
 - "les personnes sont les bonnes personnes" -> attention "bonnes"= jugement
-- espaces problème OK OK (clair)
+- espaces problème OK (clair)
 - pour les term = le faire en septembre, octobre toussaint
-- pour les première = février c'est top
+- pour les premières = février c'est top
 - a adoré les valeurs de liberté
 - pas compris fil 1 / fil 2
 - bilan de compétences / orientation = 400/600€ et des parents payent sans problème pour ça
