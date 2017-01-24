@@ -56,10 +56,10 @@ description: Présentation détaillée du contenu du week-end et du planning
 **Départ**
   
 **Ateliers permanents : **
-Après chaque temps de travail est conseillé de prendre le temps de faire une retrospective sur son carnet
-Bibliothèque ressource avec des livres, un accès internet, des site ressources, des contacts de professionnels
-Des citations inspirantes seront accrochées un peu partout
-atelier artistique, construisez une œuvre d'art à partir de tout ce que vous avez appris sur vous ! 
+Après chaque temps de travail, il est conseillé de prendre le temps de faire une retrospective sur son carnet.
+Une bibliothèque ressource avec des livres, un accès internet, des sites ressources, des contacts de professionnels.
+Des citations inspirantes seront accrochées un peu partout.
+Un atelier artistique, construisez une œuvre d'art à partir de tout ce que vous avez appris sur vous ! 
 Interviews vidéos
 
 
