@@ -30,7 +30,7 @@ toute une équipe de gens motivés pour t'aider.
 > .  
 
 ### Solutions
-des ateliers pour mieux te connaitre et t'aider a mieux savoir dans quoi s'angager
+des ateliers pour mieux te connaitre et t'aider a mieux savoir dans quoi s'engager
 
 **Priorité :** 2/3 | 
 **Pénibilité :** 2/3
@@ -55,12 +55,12 @@ des atiliers innovants qui propose de voir tes poblématique sous un tout autre 
 
 ### Notes
 
-> . Il se demande comment on fait quand on arrive au stage et qu'on a aucunes idée de ce qu'on veux faire. Il a peur d'aimer les atiliers mais de plus apprendre des choses sur l'atilier lui meme que sur son projet.
+> . Il se demande comment on fait quand on arrive au stage et qu'on a aucune idée de ce qu'on veux faire. Il a peur d'aimer les ateliers mais de plus apprendre des choses sur l'atelier lui même que sur son projet.
 > .  
 > .  
 > .  
 
-### Référants
+### Référents
 
 > .  
 > .  
