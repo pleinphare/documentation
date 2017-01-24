@@ -8,7 +8,7 @@
 ### Data
 Est-ce que votre fille : 
 - sait où elle va aller après le bac ? Oui
-- est agnoissée par la question de ce qu'elle va faire plus tard ? Oui
+- est angoissée par la question de ce qu'elle va faire plus tard ? Oui
 - Est-elle aidée pour faire ses choix ? oui 
 - a peur de perdre du temps ? oui
 
