@@ -6,7 +6,7 @@ futur
 individuelle
 
 théâtre impro ( ice breaker energiser) :
-cohésion de groupe , apprendre à se connaitre 
+cohésion de groupe , apprendre à se connaître 
 théorie : "oui et ..." 
 bien se sentir dans son corps 
 
@@ -27,7 +27,7 @@ impact mapping :
 travail sur raison d'être , mission de vie 
 
 reconnexion à l'identité :
-faire bilan individuelle qu'est ce que j'ai déjà accompli et qui je suis , 
+faire bilan individuel qu'est ce que j'ai déjà accompli et qui je suis , 
 autoportrait 
 
 rando :
@@ -41,7 +41,7 @@ citations :
 art :
 petit à petit ( pas 1 objectif super fort , il faut créer au fur et à mesure )
 objet retrospectif
-outils de communication avec exterieur
+outils de communication avec extérieur
 connecter avec sa créativité
 
 méditation:
@@ -53,7 +53,7 @@ self-défense:
 violence le truc le plus angoissant => même ça c'est pas si angoissant => ludique
 
 Marshmallow :
-prouver que il faut faire plusieurs essais pour un projet
+prouver qu'il faut faire plusieurs essais pour un projet
 rester focalisé sur une seul idée est un obstacle
 
 ciné docu : 
@@ -67,7 +67,7 @@ Bibliothèque :
     espace de partage : idées
 
 atelier ? engagements julia :
-    risque a pas s'écouter
+    risque de pas s'écouter
 
 méthodo de recherche :
 
@@ -82,4 +82,4 @@ contact :
     fiches jeunes 
     
 intervenant :
-    suivi poste stage
+    suivi post stage
