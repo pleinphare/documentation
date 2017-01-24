@@ -45,7 +45,7 @@
 ### Notes
 
 > .  programme à l'air de répondre à tous les problèmes
-> .  site super, photos drôle
+> .  site super, photos drôles
 > .  ateliers pas assez clairs
 > .  a bugué sur le prix
 > .  on voit mal en quoi ça répond à la question concrète "ce que je veux faire plus tard"
@@ -54,7 +54,7 @@
 > .  pas compris fil 1 /fil 2
 > .  a tourné le slide
 
-### Référants
+### Référents
 
 > .  
 > .  
