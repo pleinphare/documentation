@@ -28,7 +28,7 @@ Topo qui présente l'initiative (ce qu'on va faire et pourquoi on fait cette int
 - accroche par la question "est-ce que tu sais ce que tu vas faire plus tard"
 
 # Vérifier qu'on est sur les bonnes personnes (2min) (ici si on sait déjà on zappe) 
-NB : réponse courtes type : oui / non / 50 / vétérinaire
+NB : réponses courtes type : oui / non / 50 / vétérinaire
 - C'est bien un paumé : Où est-ce que tu vas aller après le bac ? Est-ce que la question de ce que tu vas faire plus tard t'angoisse ? 
 - Il n'a pas été aidé par des personnes ressources : Qui est-ce qui t'aide pour faire des choix ?
 - Il a peur de perdre du temps : Tu as plus peur de ne pas y arriver ou de te tromper et de "perdre du temps". 
