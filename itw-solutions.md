@@ -1,6 +1,6 @@
 ---
 title: Méthodologie - Les interviews solutions
-description: Les interviews problèmes nous on permis de valider les problèmes que les jeunes rencontrés réellement (cf - Méthodologie - Les interviews problèmes) à partir de ça, nous avons fabriqué des solutions constituant le contenu de notre projet.Les interviews solutions nous permettent de valider qu'on est pas à côté de la plaque, que les solutions qu'on propose répoondent bien à des problèmes, vérifier la proposition unique de valeur, la métaphore et le prix.
+description: Les interviews problèmes nous ont permis de valider les problèmes que les jeunes rencontraient réellement (cf - Méthodologie - Les interviews problèmes) à partir de ça, nous avons fabriqué des solutions constituant le contenu de notre projet.Les interviews solutions nous permettent de valider qu'on est pas à côté de la plaque, que les solutions qu'on propose répondent bien à des problèmes, vérifier la proposition unique de valeur, la métaphore et le prix.
 ---
 
 > https://public.etherpad-mozilla.org/p/pleinphare-itw-solutions
@@ -8,23 +8,23 @@ description: Les interviews problèmes nous on permis de valider les problèmes 
 # Contexte 
 - Valider les solutions, l'UVP, la métaphore et déterminer le prix d'un stage.
 
-# Infos pratiques pour l'interviews
-- Interview les 2 types d'utilisateurs qui sont :
-  - les lycéens de Saint-Vincent et Jules Guesde en filière générale qui doute sur le post-bac
+# Infos pratiques pour l'interview
+- Interviewer les 2 types d'utilisateurs qui sont :
+  - les lycéens de Saint-Vincent et Jules Guesde en filière générale qui doutent sur le post-bac
 - Durée totale 24min
 - En face à face
-- On prends pas de note durant l'interview
+- On ne prend pas de note durant l'interview
 - Respecter le timing
 
 # Présentation (2min)
 Topo qui présente l'initiative (ce qu'on va faire et pourquoi on fait cette interview)
 - Inventer un projet pour aider les jeunes qui ont des problèmes dans leur orientation scolaire
 - notre idée c'est une sorte de colo pour te permettre de mieux cerner qui tu es pour engager une activité qui a du sens pour toi au travers d'ateliers
-- portée en co-réalisation entre 2 jeune de 17 ans qui sont un peu perdue quand à leur orientation 
+- portée en co-réalisation par 2 jeunes de 17 ans qui sont un peu perdues quant à leur orientation 
 - forme que prend le projet (lieu à part + ateliers)
-- on déjà fait des interviews sur les problèmes (pour être sûrs que les problèmes auxquels on pensait étaient de vrais problème)
+- on a déjà fait des interviews sur les problèmes (pour être sûrs que les problèmes auxquels on pensait étaient de vrais problèmes)
 - à partir de ces problèmes on a inventé des solutions
-- je viens te voir pour savoir si ces solutions sont bien des solutions pour toi qui serait susceptible de participer à notre atelier
+- je viens te voir pour savoir si ces solutions sont bien des solutions pour toi, qui serait susceptible de participer à notre atelier
 - accroche par la question "est-ce que tu sais ce que tu vas faire plus tard"
 
 # Vérifier qu'on est sur les bonnes personnes (2min) (ici si on sait déjà on zappe) 
@@ -38,15 +38,15 @@ NB : réponse courtes type : oui / non / 50 / vétérinaire
 # Histoire des problèmes (2min) - Pour vérifier (again) le bon alignement avec les personnes interviewées. Si pas aligné on switch. 
 "Tout à l'heure je t'ai parlé qu'on avait isolé. Maintenant je vais te les illustrer avec une petite histoire"
 
-Ex 1 / La médecine ça me botte bien... mais je suis angoissée parceque si je le choisi et que ça me plaît pas je risque de perdre 7 ans de ma vie. J'aurai besoin d'aide et j'arrive pas trouver les bonnes personnes pour m'aider. Mes parents y en savent rien et la conseillère d'orientation m'envoie vers des trucs qui ont rien à voir. Là les inscriptions post-bac approchent et je ne sais pas quoi choisir, ça m'angoisse à fond !
+Ex 1 / La médecine ça me botte bien... mais je suis angoissée parce que si je le choisis et que ça ne me plaît pas, je risque de perdre 7 ans de ma vie. J'aurais besoin d'aide et je n'arrive pas à trouver les bonnes personnes pour m'aider. Mes parents n'en savent rien et la conseillère d'orientation m'envoie vers des trucs qui n'ont rien à voir. Là, les inscriptions post-bac approchent et je ne sais pas quoi choisir, ça m'angoisse à fond !
 
-Ex 2 / On est en décembre et la prof d'orientation nous met la pression pour aller compléter le post-bac, sauf que j'ai aucune idée de ce que je vais faire. Y'a rien qui me plaît dans les propositions, mes parents et la conseillère d'orientation m'aident pas il comprennent rien. J'ai pas envie de me lancer dans un truc qui me plaît pas et étudier pour rien ou rien faire pendant une année. 
+Ex 2 / On est en décembre et la prof d'orientation nous met la pression pour aller compléter le post-bac, sauf que je n'ai aucune idée de ce que je vais faire. Y'a rien qui me plaît dans les propositions, mes parents et la conseillère d'orientation ne m'aident pas ils ne comprennent rien. J'ai pas envie de me lancer dans un truc qui ne me plaît pas et étudier pour rien ou rien faire pendant une année. 
 
 
  # Coeur de l'interview (15min) ici on utilise le site pour montrer en même temps l'interview.
-Pour chaque problème tu illustre comment on résoud le problème en utilisant le site internet. 
+Pour chaque problème, tu illustres comment on résoud le problème en utilisant le site internet. 
 Et là on demande : 
-Dans tout ce que je viens de te présenter qu'est-ce qui te parle le plus ? 
+Dans tout ce que je viens de te présenter, qu'est-ce qui te parle le plus ? 
 Est-ce que maintenant que tu sais que ce truc existe, tu pourrais choisir ton orientation scolaire sans ça ?
 Est-ce que tu vois un truc super important que tu penses qu'on a oublié ? 
 
@@ -60,7 +60,7 @@ Et ainsi de suite, on réajuste pour trouver le prix de friction.
 # Clôturer (2min) 
 Remercier
 Proposer de rajouter quelque chose
-Demander si il y a autres personnes
+Demander si il y a d'autres personnes
 
 # Retranscription (2min)
 Seul, on retranscrit ce qu'on a retenu de l'interview + coordonnées, nom, réponses au 3 questions, date + truc intéressant (ex : le nom d'un bouquin).
