@@ -14,17 +14,17 @@ Pour monter un projet, il est indispensable d'être en interaction, en relation 
 * Eprouver la solidarité là où on ne l'attend pas
 
 ## Pourquoi ça marche ?
-Héhé ! Ca marche parceque les participants s'ils veulent atteindre leur objectif, les participants sont contraints à la coopération avec leur adversaire.
+Ca marche parceque si les participants veulent atteindre leur objectif, ils vont devoir se tourner avec leur adversaire.
 
 L'exercice est indisociable du changement de posture. Sans quoi il est impossible d'atteindre son objectif.
 
 
 ## Informations pratiques
-* Nombre de participants de 10 à 30 participants.
-* Durée préparation peut être très rapide
-* Durée évènement : prévoir une heure
-* Matériel :
-    * 10 chaises
+* Nombre de participants : 12 à 28
+* Durée préparation : très rapide
+* Durée évènement : prévoir une demi-heure
+* Matériel : 10 chaises
+
 
 
 ## Objectif
@@ -37,11 +37,12 @@ L'exercice est indisociable du changement de posture. Sans quoi il est impossibl
 ## Déroulé
 Répartissez les participants en 3 équipe et disposez 10 chaises au centre d'un salle.
 
-Distribuez à chaque équipe une consigne :
-Equipe 1 : rangez les chaises face au mur
-Equipe 2 : rangez les chaise la tête en branches
-Equipe 3 : rangez les chaises dos au mur
+Distribuez à chaque équipe une consigne :  
+Equipe 1 : rangez les chaises face au mur  
+Equipe 2 : rangez les chaise la tête en branches  
+Equipe 3 : rangez les chaises dos au mur  
 
-La seule contrainte en dehors des consignes et que les participants ne doivent pas parler.
+La seule contrainte, en dehors des consignes, est que les participants ne doivent pas parler.
 
-La seule manière pour chaque équipe d'atteindre son objectif est de communiquer avec les adveraires.
+## Résultat
+La seule manière pour chaque équipe d'atteindre son objectif est de communiquer avec les adveraires pour que chacun comprenne que leur contraintes sont contradictoires. 
