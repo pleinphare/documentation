@@ -1,6 +1,6 @@
 ---
 title: Range tes chaises - la coopération ou la concurence ?
-description: Jeu pour lequel rien n'est possible sans coopération.
+description: Jeu pour lequel rien n'est possible sans tes adversaires.
 ---
 
 # Ranges tes chaises !
