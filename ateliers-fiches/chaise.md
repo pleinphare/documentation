@@ -39,10 +39,10 @@ Répartissez les participants en 3 équipe et disposez 10 chaises au centre d'un
 
 Distribuez à chaque équipe une consigne :  
 Equipe 1 : rangez les chaises face au mur  
-Equipe 2 : rangez les chaise la tête en branches  
+Equipe 2 : rangez les chaise la tête en bas  
 Equipe 3 : rangez les chaises dos au mur  
 
 La seule contrainte, en dehors des consignes, est que les participants ne doivent pas parler.
 
 ## Résultat
-La seule manière pour chaque équipe d'atteindre son objectif est de communiquer avec les adveraires pour que chacun comprenne que leur contraintes sont contradictoires. 
+La seule manière pour chaque équipe d'atteindre son objectif est de communiquer avec les adveraires pour que chacun comprenne que leur contraintes sont contradictoires.
