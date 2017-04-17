@@ -13,8 +13,7 @@ description: déroulé de l'interview problèmes
 - On prend pas de note durant l'interview
 - Respecter le timing
 
-# Présentation (2min)
-Topo qui présente l'initiative (Ce qu'on va faire et pourquoi on fait cette interview)
+# Présentation (2min) Topo qui présente l'initiative (Ce qu'on va faire et pourquoi on fait cette interview)  
 On est en train de construire une alternative au problème "d'orientation scolaire" que rencontrent certains jeunes. Notre intention : les aider à répondre à la question "qu'est-ce que tu vas faire plus tard". On a travaillé avec eux pour voir quels problèmes ils rencontraient et consrtuire une solution.  
 On vient te voir parcequ'on pense que c'est pas les jeunes qui vont financer leur participations et qu'il nous faut maintenant embarquer les parents/les proches dans l'aventure. On pense que tu pourrais nous aider à actioner "le levier" et nous aider à avoir des inscriptions.
 
