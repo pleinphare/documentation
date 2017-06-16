@@ -1,4 +1,9 @@
 
+# Accélérateur de projet à l'Agile France 2017
+On a décidé de confronter Plein Phare à la communcauté Agile. L'idée : proposer une conférence et la faire basculer en accélérateur de projet. Voici les résultats....
+
+![Conf1](https://github.com/pleinphare/documentation/blob/master/media/agile-france/IMG_3347.JPG)
+
 ## Point de vue des parents
 - Volonté des parents qui ne veulent pas forcer
 - Parents sont sensibles à ce sujet
@@ -46,9 +51,9 @@
 - Réussir à le capter, le toucher : quelle accroche sur le site ? 
 - Comment faire en sorte que les jeunes vueillent plus passer un week-end avec nous qu'avec leurs potes ?
 
-
-
-
+# Nos actions pour la suite 
+On ressort avec tout un tas de jolies pistes qu'on souhaite vivement mettre en place. 
+Notre prochain petit pas, se réunir avec Sonia et Louna pour en parler !
 
 
 
