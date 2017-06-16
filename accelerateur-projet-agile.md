@@ -18,7 +18,7 @@ On a décidé de confronter Plein Phare à la communcauté Agile. L'idée : prop
 - Titre trompeur "vient apprendre à vivre ta vie" ? Serait plus pertinent
 - Changement de croyances est plus l'angle d'attaque
 - Dire aux jeune "pensez-par vous-même" et voici les outils que vous avez dispo
-- 
+- Changer l'accroche : "*Ton problème c'est le post-bac ? Je vais t'apprendre à t'en passer !*" je vais t'amener ailleurs, autrement = plus clair pour les parents
 
 **Forme** 
 - Une communication par ceux qui ont déjà participés, les ados eux-mêmes sont prescripteurs (sponsoring naturel)
@@ -33,13 +33,11 @@ On a décidé de confronter Plein Phare à la communcauté Agile. L'idée : prop
 - Faire le parallèle avec la création d'un site : on créé le site pour les utilisateurs et non le client. Il ne s'agit pas de construire le site sur les croyances de clients. Pourquoi se positioner en tant que conseiller vis-à-vis des clients. 
 - Utliser les outils que les jeunes utilisent (FB, instagram, snap). Mais postés par les jeunes eux-même ? 
 
-
-## Autres entrées : 
+## Autres entrées  
 - Travailler avec les jeunes adultes plus que les lycéens pour que ce soit plus facile et revenir ensuite vers les lycéens
 - Mettre l'école et les parents dans la boucle dès le début
 - Passer par l'école et ce qui se fait déjà (se rapporcher des MJC) et ne pas sortir du cadre complet
 - Rencontrer les parents pour les interroger sur les aspirations de leurs jeunes
-- 
 
 ## Partenariats 
 - "*Ce que je veux faire plus tard*" = leur com touche les 2 en même temps (accès sur l'envie et le plaisir) et qui s'adresse à la fois aux parents et aux jeunes
