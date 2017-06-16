@@ -1,6 +1,6 @@
 
 # Accélérateur de projet à l'Agile France 2017
-On a décidé de confronter Plein Phare à la communcauté Agile. L'idée : proposer une conférence et la faire basculer en accélérateur de projet. Voici les résultats....
+On a décidé de confronter Plein Phare à la communcauté Agile. L'idée : proposer une conférence et la faire basculer en accélérateur de projet. Voici un résumés des retours généreusement partagés par les participants....
 
 ![Conf1](https://github.com/pleinphare/documentation/blob/master/media/agile-france/IMG_3347.JPG)
 
