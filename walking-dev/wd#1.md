@@ -32,19 +32,20 @@ Les lycéens/lycéennes de la seconde à la terminale, qui s'interrogent sur leu
 
 ### En quoi ça change d'un·e conseill·er·ère d'orientation ?
 On se concentre moins sur la mise en praticité de l'orientation (BTS.DUT.FAC...etc) que sur ce que vous voulez vraiment être, faire et représenter dans la société.
+  
 Ce qu'on souhaite c'est vous offrir des pistes, des idées, une écoute et un réel suivi.
 
 On apprend tous des uns des autres (les organisatrice·eur·s y compris), pour avoir un vrai échange d'opinions et d'expériences.
 
 ### C'est qui qui organise ?
 
-Les 4 créateurs·rices de Plein Phare 
-Julia : Vidéaste, formatrice et exploratrice des pratiques collaboratives (Montpellier)
-Louna : Jeune bachelière, aujourd'hui service civique dans une asso d'éducation populaire dans la lutte contre les discriminations.(Montpellier)
-Sonia : Jeune bachelière en 1ère année d'architecture (Paris)
-Stéphane : Accompagne des personnes et des collectifs à construire des projets autrement et formateur. (Nomade)
-
-et Ludivine : Dessinatrice et lycéenne en classe littéraire (Paris)
+Les 4 créateurs·rices de Plein Phare   
+Julia : Vidéaste, formatrice et exploratrice des pratiques collaboratives (Montpellier)  
+Louna : Jeune bachelière, aujourd'hui service civique dans une asso d'éducation populaire dans la lutte contre les discriminations.(Montpellier)  
+Sonia : Jeune bachelière en 1ère année d'architecture (Paris)  
+Stéphane : Accompagne des personnes et des collectifs à construire des projets autrement et formateur. (Nomade)  
+  
+et Ludivine : Dessinatrice et lycéenne en classe littéraire (Paris)  
 
 ### On sera combien ?
 
