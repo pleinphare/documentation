@@ -40,12 +40,11 @@ On apprend tous des uns des autres (les organisatrice·eur·s y compris), pour a
 ### C'est qui qui organise ?
 
 Les 4 créateurs·rices de Plein Phare   
-Julia : Vidéaste, formatrice et exploratrice des pratiques collaboratives (Montpellier)  
-Louna : Jeune bachelière, aujourd'hui service civique dans une asso d'éducation populaire dans la lutte contre les discriminations.(Montpellier)  
-Sonia : Jeune bachelière en 1ère année d'architecture (Paris)  
-Stéphane : Accompagne des personnes et des collectifs à construire des projets autrement et formateur. (Nomade)  
-  
-et Ludivine : Dessinatrice et lycéenne en classe littéraire (Paris)  
+- Julia : Vidéaste, formatrice et exploratrice des pratiques collaboratives (Montpellier)  
+- Louna : Jeune bachelière, aujourd'hui service civique dans une asso d'éducation populaire dans la lutte contre les discriminations.(Montpellier)  
+- Sonia : Jeune bachelière en 1ère année d'architecture (Paris)  
+- Stéphane : Accompagne des personnes et des collectifs à construire des projets autrement et formateur. (Nomade)  
+- et Ludivine : Dessinatrice et lycéenne en classe littéraire (Paris)  
 
 ### On sera combien ?
 
