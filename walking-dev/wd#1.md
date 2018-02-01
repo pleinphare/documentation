@@ -24,11 +24,11 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 ### C'est quand et où ?
 
 La marche commence **le samedi 3 mars 2018 à 10h** et se termine vers 19h30.  
-RDV à.........
+RDV à Chatelet-les halles
 
 ### C'est pour qui ?
 
-Les lycéens/lycéennes de la seconde à la terminale, qui s'interrogent sur leur futur après le bac.
+Les lycéens/lycéennes de la seconde à la terminale, qui s'interrogent sur leurs futurs après le bac.
 
 ### Je me sens vraiment paumé·e...
 
@@ -42,22 +42,21 @@ On apprend tous des uns des autres (les organisatrice·eur·s y compris), pour a
 
 ### C'est qui qui organise ?
 
-Aurélie et Julia. On a suivi les 3 modules d'introduction à la CNV d'Isabelle Desplat début 2017.
-On a tellement kiffé qu'on a co-créé un groupe de pratique auto-géré avec d'autres Girafes.
-Et comme on continue de kiffer, on s'est dit que ce serait chouette de tester d'autres façon de pratiquer.
-Et voilà.
+Les 4 créateurs·rices de Plein Phare 
+Julia : Vidéaste, formatrice et exploratrice des pratiques collaboratives (Montpellier)
+Louna : Jeune bachelière, aujourd'hui service civique dans une asso d'éducation populaire dans la lutte contre les discriminations.(Montpellier)
+Sonia : Jeune bachelière en 1ère année d'architecture (Paris)
+Stéphane : Accompagne des personnes et des collectifs à construire des projets autrement et formateur. (Nomade)
 
-### Mais c'est pas une formation ?
-
-Ben non. Enfin, ça dépend de toi. Il n'y aura pas de "*formateur certifié CNV*" venant dispenser la bonne parole mais des gens explorant le sujet avec toi. On essaye plus de créer un contexte pour apprendre des choses ensemble. On fait confiance, chacun à un truc à apporter et ce sera parfait comme ça.
+et Ludivine : Dessinatrice et lycéenne en classe littéraire (Paris)
 
 ### On sera combien ?
 
-Au moins 4, maximum 10, probablement autour de 7.
+Au moins 5, maximum 10, probablement autour de 7.
 
 ### Il faut que je prévois des trucs ?
 
-Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes...) qui pourraient servir de support à la pratique/compréhension de la CNV si tu as des idées.
+Ramènes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher. Tu peux aussi amener des trucs (jeux, cartes...) qui pourraient servir de support aux atelier si tu as des idées.
 
 ### On marche beaucoup ?
 
