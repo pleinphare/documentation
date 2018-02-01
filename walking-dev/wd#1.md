@@ -9,40 +9,36 @@ image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-dark
 
 ## FAQ
 
-##Plein Phare c'est quoi ? 
-On s'est rendu compte que c'était compliqué pour certains lycéens de savoir quoi choisir comme orientation post-bac : ne pas savoir et devoir s'engager c'est stressant, on a peur de faire de mauvais choix, de se tromper et de "perdre du temps" et c'est difficile de trouver des personnes pour nous aider. 
+## Plein Phare c'est quoi ? 
+On s'est rendu compte que c'était compliqué pour certains lycéens/lycéennes de savoir quoi choisir comme orientation post-bac : ne pas savoir et devoir s'engager c'est stressant, on a peur de faire de mauvais choix, de se tromper et de "perdre du temps" et c'est difficile de trouver des personnes pour nous aider. 
 Pour répondre à ces problèmes, on a décidé de proposer un week-end collectif et immersif avec des jeux et des ateliers qui permettent de se découvrir, de changer de regard sur cette question d'orientation, d'explorer la création de projet tout en s'amusant. 
 
 Pour en savoir plus rdv sur [www.pleinphare.xyz](http://www.pleinphare.xyz/)
 
 
-### On va faire quoi ?
+### Une journée découverte : on va faire quoi ?
 
-En explorant des lieux insolites dans Paris, on va 
-découvrir/apprendre/pratiquer la Communication NonViolente. Pour ça on va co-créer le contenu de la journée ensemble le matin, puis se ballader de lieux en lieux.  Dans chaque nouveau lieu on fera un nouvel atelier.  
+En explorant des lieux insolites dans Paris, on va découvrir ensemble quelques ateliers/jeux que nous proposons dans Plein Phare. Pour ça on va créer la journée ensemble, se ballader de lieux en lieux.  Dans chaque nouveau lieu on fera un nouvel atelier.  
 On profite des trajets pour débriefer sur ce qu'on vient de faire (ou pas).
 
 ### C'est quand et où ?
 
-La marche commence **le mercredi 8 novembre 2017 à 9h** et se termine vers 18h30.  
-RDV à l'Extra Shot café (44 rue de l'Aiguillerie, 34000 Montpellier).
+La marche commence **le samedi 3 mars 2018 à 10h** et se termine vers 19h30.  
+RDV à.........
 
 ### C'est pour qui ?
 
-Y'a pas de pré-requis, que tu aies déjà pratiqué ou que ce soit la première fois que tu en entendes parler, tu es le.a bienvenu.e si :
-- tu as envie de déconditionner tes oreilles et voir les sens cachés dans nos conversations
-- tu aspires à prendre plus soin de tes relations
-- tu as envie de pratiquer (la CNV c'est comme l'anglais si on le parle pas, on le perd :-))
-- tu es perplexe et/ou curieu.x.se
-- tu la pratiques depuis longtemps et aspires à partager quelques clés
-- tu n'comprends pas toujours ces émotions qui s'agitent à l'intérieur de toi 
-- tu adorerais ne plus crier sur tes ami.e.s, tes enfants, ton chien... 
-- Ou encore si tu as juste envie d'apprendre des trucs 
+Les lycéens/lycéennes de la seconde à la terminale, qui s'interrogent sur leur futur après le bac.
 
-### Je me sens pas au niveau…
+### Je me sens vraiment paumé·e...
 
-T’inquiète pas, nous non plus ;)  
-Tout le monde est invité à prendre une posture d'apprenant (les organisatrices y compris), il n'y a pas d'experts mais des gens qui ont envie de découvrir et d'apprendre ensemble.
+C'est parfait, on va tenter de trouver des solutions ensemble !
+
+### En quoi ça change d'un·e conseill·er·ère d'orientation ?
+On se concentre moins sur la mise en praticité de l'orientation (BTS.DUT.FAC...etc) que sur ce que vous voulez vraiment être, faire et représenter dans la société.
+Ce qu'on souhaite c'est vous offrir des pistes, des idées, une écoute et un réel suivi.
+
+On apprend tous des uns des autres (les organisatrice·eur·s y compris), pour avoir un vrai échange d'opinions et d'expériences.
 
 ### C'est qui qui organise ?
 
