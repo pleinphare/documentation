@@ -66,14 +66,14 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, parle-nous en, on trouvera un truc.
 
-### Je m'inscris où ?
-
-Par [ici](https://www.eventbrite.fr/e/billets-viens-tater-la-cnv-39412062540).
-Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com).
-
 ### Ça coûte combien cette petite escapade ?
 
 50€. 
+
+### Je m'inscris où ?
+
+Par [ici](https://www.eventbrite.fr/e/billets-walking-dev-tu-veux-faire-quoi-plus-tard-42753520932), on récupéra les sous le jour J.
+Mais si tu préfères, tu peux aussi envoyer un mail à [Ju](mailto:julia.barbelane@gmail.com).
 
 ### Vous faites quoi des sous ?
 
