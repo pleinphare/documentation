@@ -30,10 +30,6 @@ RDV à Chatelet-les halles
 
 Les lycéens/lycéennes de la seconde à la terminale, qui s'interrogent sur leurs futurs après le bac.
 
-### Je me sens vraiment paumé·e...
-
-C'est parfait, on va tenter de trouver des solutions ensemble !
-
 ### En quoi ça change d'un·e conseill·er·ère d'orientation ?
 On se concentre moins sur la mise en praticité de l'orientation (BTS.DUT.FAC...etc) que sur ce que vous voulez vraiment être, faire et représenter dans la société.
 Ce qu'on souhaite c'est vous offrir des pistes, des idées, une écoute et un réel suivi.
