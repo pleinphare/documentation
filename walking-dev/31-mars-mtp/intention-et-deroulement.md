@@ -1,3 +1,9 @@
+---
+title: Intention et déroulement
+description: poser nos intentions pour la journée et dessiner une première trame pour le déroulement
+image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-darktable.png?raw=true
+---
+
 # Intention et déroulement
 
 ## Aspirations personnelles
