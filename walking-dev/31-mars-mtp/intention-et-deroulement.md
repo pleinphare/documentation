@@ -19,7 +19,7 @@ image_url: https://github.com/walkingdev/darktable/blob/master/media/banner-dark
 - Objectifs : Créer un climat de confiance et d’humour, rester centré sur ses objectifs plutôt que les notre.
 
 ## Déroulement de la journée
-1- Présentation de Plein Phare et de nous
+1- Présentation de Plein Phare et de nous  
 2- Ice-breaker : trouvons-nous 10 choses en commun à tous les trois
 3- Etat des lieux : quelles sont ses croyances sur le travail, l’éducation, l’école, l’avenir. Comprendre d’où il vient et pourquoi il est là. Connaître ses aspirations. De quoi il a besoin / quels sont ses problèmes.  
 
